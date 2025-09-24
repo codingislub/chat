@@ -1,0 +1,16 @@
+[
+  {
+    "vendor": "East Repair Inc.",
+    "invoice_number": "US-001",
+    "invoice_date": "2019-02-11",
+    "due_date": "2019-02-26",
+    "total": 154.06
+  },
+  {
+    "vendor": "East Repair Inc.",
+    "invoice_number": "US-001",
+    "invoice_date": "2019-02-11",
+    "due_date": "2019-02-26",
+    "total": 154.06
+  }
+]

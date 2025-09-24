@@ -1,0 +1,5 @@
+[
+	{"vendor":"Amazon","invoice_number":"INV-0012","invoice_date":"2025-08-20","due_date":"2025-09-05","total":2450.00},
+	{"vendor":"Microsoft","invoice_number":"INV-0043","invoice_date":"2025-08-25","due_date":"2025-09-10","total":3100.00},
+	{"vendor":"Apple","invoice_number":"INV-0101","invoice_date":"2025-09-15","due_date":"2025-10-01","total":1299.99}
+]
