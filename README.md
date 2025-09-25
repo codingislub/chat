@@ -134,3 +134,4 @@ data/
 - `python-dotenv>=1.0.1` - Environment management
 - `rich>=13.7.1` - CLI formatting
 - `requests>=2.32.3` - HTTP requests
+# chat
