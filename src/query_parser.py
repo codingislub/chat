@@ -16,7 +16,10 @@ class QueryParser:
             'count_due': [
                 r'how many invoices? are due (?:in the )?next (\d+) days?',
                 r'count invoices? due (?:in the )?next (\d+) days?',
-                r'invoices? due (?:in the )?next (\d+) days?'
+                r'invoices? due (?:in the )?next (\d+) days?',
+                r'how many invoices? are due in (\d+) days?',
+                r'count invoices? due in (\d+) days?',
+                r'invoices? due in (\d+) days?'
             ],
             'total_by_vendor': [
                 r'what is the total (?:value|amount) (?:of invoices? )?from (.+?)(?:\?|$)',
