@@ -15,10 +15,6 @@ def get_openai_client() -> OpenAI:
 
 
 def extract_invoice_fields_from_image(image_url: str) -> Dict[str, Any]:
-	"""Use a vision model to extract structured invoice fields from an image URL.
-
-	Returns keys: vendor, invoice_number, invoice_date, due_date, total
-	"""
 	client = get_openai_client()
 	system_prompt = (
 		"You are a precise invoice extraction engine. "
@@ -45,12 +41,9 @@ def extract_invoice_fields_from_image(image_url: str) -> Dict[str, Any]:
 	)
 
 	content = resp.choices[0].message.content
-	# The SDK returns a JSON string when response_format=json_object
-	# Safely evaluate via json module
 	import json
 	try:
 		data = json.loads(content)
-		# normalize keys
 		return {
 			"vendor": data.get("vendor"),
 			"invoice_number": data.get("invoice_number"),
