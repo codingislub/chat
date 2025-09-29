@@ -206,20 +206,3 @@ def load_config_from_file(config_file: str) -> Dict[str, Any]:
         return {}
 
 
-# Example .env file content for users
-ENV_EXAMPLE = """# OpenAI Configuration (Required for image processing)
-OPENAI_API_KEY=your_openai_api_key_here
-OPENAI_VISION_MODEL=gpt-4o-mini
-OPENAI_TEXT_MODEL=gpt-4o-mini
-OPENAI_TIMEOUT=30
-OPENAI_MAX_RETRIES=3
-
-# Application Configuration
-INVOICES_JSON=data/invoices.sample.json
-LOG_LEVEL=INFO
-LOG_FORMAT=%(asctime)s - %(name)s - %(levelname)s - %(message)s
-ENABLE_DATA_VALIDATION=true
-CACHE_QUERY_RESULTS=false
-USE_RICH_OUTPUT=true
-SHOW_DEBUG_INFO=false
-"""
