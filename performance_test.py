@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 from typing import List, Dict, Any
 
 from src.query_engine import InvoiceQueryEngine
-from src.query_parser import QueryParser
+from src.smart_query_parser import SmartQueryParser
 
 
 def generate_test_invoices(count: int) -> List[Dict[str, Any]]:
