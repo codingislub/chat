@@ -18,9 +18,9 @@ logger = logging.getLogger(__name__)
 @dataclass
 class ParsedQuery:
     """Structured representation of a parsed query."""
-    action: str  # What the user wants to do
-    entities: Dict[str, Any]  # Extracted entities (vendors, dates, amounts, etc.)
-    filters: List[Dict[str, Any]]  # Conditions to apply
+    action: str  
+    entities: Dict[str, Any] 
+    filters: List[Dict[str, Any]] 
     confidence: float
 
 
@@ -66,7 +66,6 @@ class SmartQueryParser:
         try:
             config = get_config()
             
-            # Check if OpenAI is available
             if config.openai is None:
                 logger.info("OpenAI not available, using fallback parsing")
                 return self._enhanced_fallback_parse(question, available_vendors)
@@ -74,7 +73,6 @@ class SmartQueryParser:
             openai_config = config.get_openai_config()
             client = get_openai_client()
             
-            # Create context-aware prompt
             system_prompt = self._build_system_prompt(available_vendors or [])
             
             response = client.chat.completions.create(
@@ -158,7 +156,6 @@ Be smart about disambiguation and always explain your interpretation."""
         
         question_lower = question.lower()
         
-        # Enhanced keyword detection with better logic
         if any(word in question_lower for word in ["summary", "overview", "stats", "statistics"]):
             return ParsedQuery("get_summary", {}, [], 0.8)
         
@@ -166,7 +163,7 @@ Be smart about disambiguation and always explain your interpretation."""
             return ParsedQuery("find_overdue", {}, [], 0.8)
         
         elif any(word in question_lower for word in ["how many", "count", "number of"]):
-            # Check for value-based filters first
+           
             value_patterns = [
                 (r'(?:less than|under|below)\s*(?:\$)?(\d+(?:,\d{3})*(?:\.\d{2})?)', 'less_than'),
                 (r'(?:more than|over|above|greater than)\s*(?:\$)?(\d+(?:,\d{3})*(?:\.\d{2})?)', 'greater_than'),
@@ -180,7 +177,7 @@ Be smart about disambiguation and always explain your interpretation."""
                     filters = [{"field": "total", "operator": operator, "value": value}]
                     return ParsedQuery("count_invoices", {"amount": value}, filters, 0.8)
             
-            # Try to extract vendor names from question
+           
             detected_vendors = []
             if available_vendors:
                 for vendor in available_vendors:
@@ -194,7 +191,6 @@ Be smart about disambiguation and always explain your interpretation."""
                 return ParsedQuery("count_invoices", {}, [], 0.6)
         
         elif any(word in question_lower for word in ["total", "sum", "amount"]):
-            # Try to extract vendor names
             detected_vendors = []
             if available_vendors:
                 for vendor in available_vendors:
@@ -206,7 +202,6 @@ Be smart about disambiguation and always explain your interpretation."""
                 return ParsedQuery("sum_total", {"vendor": detected_vendors[0]}, filters, 0.7)
             else:
                 return ParsedQuery("sum_total", {}, [], 0.6)
-            # Try to extract vendor names
             detected_vendors = []
             if available_vendors:
                 for vendor in available_vendors:
@@ -220,7 +215,6 @@ Be smart about disambiguation and always explain your interpretation."""
                 return ParsedQuery("sum_total", {}, [], 0.6)
         
         elif any(word in question_lower for word in ["show", "list", "display"]):
-            # Extract vendor if present
             detected_vendors = []
             if available_vendors:
                 for vendor in available_vendors:
@@ -233,12 +227,10 @@ Be smart about disambiguation and always explain your interpretation."""
             else:
                 return ParsedQuery("list_invoices", {}, [], 0.6)
         
-        # If nothing matches, return unknown
         return ParsedQuery("unknown", {}, [], 0.0)
 
     def _fallback_parse(self, question: str) -> ParsedQuery:
         """Simple keyword-based fallback when LLM fails."""
-        # Basic keyword detection as backup
         if "summary" in question.lower():
             return ParsedQuery("get_summary", {}, [], 0.6)
         elif "overdue" in question.lower():
@@ -254,7 +246,6 @@ class IntelligentQueryEngine:
         self.df = invoices_df
         self.parser = SmartQueryParser()
         
-        # Extract known vendors for better parsing context
         self.known_vendors = list(self.df['vendor'].dropna().str.title().unique())
     
     def answer_question(self, question: str) -> str:
@@ -270,7 +261,6 @@ class IntelligentQueryEngine:
         if parsed.confidence < 0.5:
             return self._handle_unclear_question(question, parsed)
         
-        # Execute query locally using pandas
         try:
             return self._execute_parsed_query(parsed)
         except Exception as e:
@@ -298,7 +288,6 @@ class IntelligentQueryEngine:
         filtered_df = self._apply_filters(self.df, filters)
         count = len(filtered_df)
         
-        # Build descriptive response
         description = self._build_filter_description(filters)
         return f"Found {count} invoices{description}"
     
@@ -312,7 +301,6 @@ class IntelligentQueryEngine:
             value = filter_condition.get('value')
             
             if field == 'vendor' and operator == 'equals':
-                # Case-insensitive vendor matching
                 filtered_df = filtered_df[
                     filtered_df['vendor'].str.lower().str.contains(
                         str(value).lower(), na=False
@@ -322,7 +310,6 @@ class IntelligentQueryEngine:
                 filtered_df = filtered_df[filtered_df['total'] < float(value)]
             elif field == 'total' and operator == 'greater_than':
                 filtered_df = filtered_df[filtered_df['total'] > float(value)]
-            # Add more filter conditions as needed
             
         return filtered_df
     
