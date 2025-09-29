@@ -3,25 +3,16 @@ import logging
 import pandas as pd
 from typing import Any, Dict, List, Optional, Union
 
-# Configure logging
 logger = logging.getLogger(__name__)
 
 
 class InvoiceQueryError(Exception):
-    """Custom exception for invoice query errors."""
     pass
 
 
 class InvoiceQueryEngine:
-    """High-performance invoice query engine using pandas for local data processing."""
     
     def __init__(self, invoices: List[Dict[str, Any]]) -> None:
-        """
-        Initialize the query engine with invoice data.
-        
-        Args:
-            invoices: List of invoice dictionaries
-        """
         if not isinstance(invoices, list):
             raise InvoiceQueryError("Invoices must be a list")
         
@@ -34,23 +25,18 @@ class InvoiceQueryEngine:
             raise InvoiceQueryError(f"Failed to initialize with invoice data: {e}")
     
     def _normalize_data(self) -> None:
-        """Normalize and validate invoice data for efficient querying."""
         if self.df.empty:
             logger.warning("No invoice data to normalize")
             return
         
         try:
-            # Normalize vendor names
             self.df['vendor'] = self.df['vendor'].fillna('').astype(str).str.lower().str.strip()
             
-            # Parse and validate dates
             self.df['invoice_date'] = pd.to_datetime(self.df['invoice_date'], errors='coerce')
             self.df['due_date'] = pd.to_datetime(self.df['due_date'], errors='coerce')
             
-            # Normalize totals
             self.df['total'] = pd.to_numeric(self.df['total'], errors='coerce').fillna(0)
             
-            # Log data quality issues
             invalid_invoice_dates = self.df['invoice_date'].isna().sum()
             invalid_due_dates = self.df['due_date'].isna().sum()
             invalid_totals = (self.df['total'] == 0).sum()
@@ -67,16 +53,6 @@ class InvoiceQueryEngine:
             raise InvoiceQueryError(f"Failed to normalize invoice data: {e}")
     
     def count_by_value(self, value: float, comparison: str = 'less_than') -> int:
-        """
-        Count invoices by value comparison.
-        
-        Args:
-            value: Value threshold to compare against
-            comparison: 'less_than' or 'greater_than'
-            
-        Returns:
-            Count of invoices matching the criteria
-        """
         if not isinstance(value, (int, float)) or value < 0:
             raise InvoiceQueryError("Value must be a non-negative number")
         
@@ -89,7 +65,7 @@ class InvoiceQueryEngine:
         try:
             if comparison == 'less_than':
                 mask = self.df['total'] < value
-            else:  # greater_than
+            else:
                 mask = self.df['total'] > value
             
             result = int(mask.sum())
@@ -101,15 +77,6 @@ class InvoiceQueryEngine:
             raise InvoiceQueryError(f"Failed to count invoices by value: {e}")
     
     def count_due_in_days(self, days: int) -> int:
-        """
-        Count invoices due within the specified number of days.
-        
-        Args:
-            days: Number of days to look ahead
-            
-        Returns:
-            Count of invoices due within the specified timeframe
-        """
         if not isinstance(days, int) or days < 0:
             raise InvoiceQueryError("Days must be a non-negative integer")
         
@@ -134,15 +101,6 @@ class InvoiceQueryEngine:
             raise InvoiceQueryError(f"Failed to count invoices due in {days} days: {e}")
     
     def total_by_vendor(self, vendor: str) -> float:
-        """
-        Calculate total invoice amount for a specific vendor.
-        
-        Args:
-            vendor: Vendor name (case-insensitive partial matching)
-            
-        Returns:
-            Total amount for the vendor
-        """
         if not isinstance(vendor, str):
             raise InvoiceQueryError("Vendor must be a string")
         
@@ -164,16 +122,6 @@ class InvoiceQueryEngine:
             raise InvoiceQueryError(f"Failed to calculate total for vendor '{vendor}': {e}")
     
     def total_by_date_range(self, start_date: str, end_date: str) -> float:
-        """
-        Calculate total invoice amount for a date range.
-        
-        Args:
-            start_date: Start date in YYYY-MM-DD format
-            end_date: End date in YYYY-MM-DD format
-            
-        Returns:
-            Total amount for the date range
-        """
         if self.df.empty:
             return 0.0
         
@@ -200,15 +148,6 @@ class InvoiceQueryEngine:
             raise InvoiceQueryError(f"Failed to calculate total for date range: {e}")
     
     def get_invoices_by_vendor(self, vendor: str) -> List[Dict[str, Any]]:
-        """
-        Get all invoices for a specific vendor.
-        
-        Args:
-            vendor: Vendor name (case-insensitive partial matching)
-            
-        Returns:
-            List of invoice dictionaries
-        """
         if not isinstance(vendor, str):
             raise InvoiceQueryError("Vendor must be a string")
             
@@ -226,7 +165,6 @@ class InvoiceQueryEngine:
             if result_df.empty:
                 return []
             
-            # Format dates for output
             result_df['invoice_date'] = result_df['invoice_date'].dt.strftime('%Y-%m-%d')
             result_df['due_date'] = result_df['due_date'].dt.strftime('%Y-%m-%d')
             
@@ -239,12 +177,6 @@ class InvoiceQueryEngine:
             raise InvoiceQueryError(f"Failed to get invoices for vendor '{vendor}': {e}")
     
     def get_overdue_invoices(self) -> List[Dict[str, Any]]:
-        """
-        Get all overdue invoices.
-        
-        Returns:
-            List of overdue invoice dictionaries
-        """
         if self.df.empty:
             return []
         
@@ -259,7 +191,6 @@ class InvoiceQueryEngine:
             if result_df.empty:
                 return []
             
-            # Format dates for output
             result_df['invoice_date'] = result_df['invoice_date'].dt.strftime('%Y-%m-%d')
             result_df['due_date'] = result_df['due_date'].dt.strftime('%Y-%m-%d')
             
@@ -272,12 +203,6 @@ class InvoiceQueryEngine:
             raise InvoiceQueryError(f"Failed to get overdue invoices: {e}")
     
     def get_summary_stats(self) -> Dict[str, Any]:
-        """
-        Get summary statistics for all invoices.
-        
-        Returns:
-            Dictionary with summary statistics
-        """
         if self.df.empty:
             return {
                 'total_invoices': 0,
