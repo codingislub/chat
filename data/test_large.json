@@ -1,0 +1,7002 @@
+[
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00001",
+    "invoice_date": "2025-06-01",
+    "due_date": "2025-06-16",
+    "total": 2155.59
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00002",
+    "invoice_date": "2025-06-30",
+    "due_date": "2025-07-29",
+    "total": 7908.77
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00003",
+    "invoice_date": "2025-06-14",
+    "due_date": "2025-07-06",
+    "total": 4516.42
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00004",
+    "invoice_date": "2025-06-19",
+    "due_date": "2025-07-31",
+    "total": 5289.34
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00005",
+    "invoice_date": "2025-04-21",
+    "due_date": "2025-06-05",
+    "total": 3653.83
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00006",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-05-23",
+    "total": 1315.87
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00007",
+    "invoice_date": "2025-05-15",
+    "due_date": "2025-06-29",
+    "total": 4818.66
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00008",
+    "invoice_date": "2025-05-26",
+    "due_date": "2025-07-01",
+    "total": 4501.22
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00009",
+    "invoice_date": "2025-09-12",
+    "due_date": "2025-10-12",
+    "total": 3761.45
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00010",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-07-16",
+    "total": 4002.7
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00011",
+    "invoice_date": "2025-08-29",
+    "due_date": "2025-10-01",
+    "total": 753.52
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00012",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-04-28",
+    "total": 1916.88
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00013",
+    "invoice_date": "2025-04-17",
+    "due_date": "2025-05-27",
+    "total": 827.14
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00014",
+    "invoice_date": "2025-05-07",
+    "due_date": "2025-06-12",
+    "total": 2758.19
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00015",
+    "invoice_date": "2025-06-12",
+    "due_date": "2025-07-23",
+    "total": 634.98
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00016",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-07-04",
+    "total": 7685.26
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00017",
+    "invoice_date": "2025-08-26",
+    "due_date": "2025-09-22",
+    "total": 7675.61
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00018",
+    "invoice_date": "2025-08-15",
+    "due_date": "2025-09-13",
+    "total": 6985.3
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00019",
+    "invoice_date": "2025-09-05",
+    "due_date": "2025-10-10",
+    "total": 6716.05
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00020",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-05-31",
+    "total": 2701.92
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00021",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-07-10",
+    "total": 1795.64
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00022",
+    "invoice_date": "2025-05-20",
+    "due_date": "2025-06-14",
+    "total": 4915.72
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00023",
+    "invoice_date": "2025-07-15",
+    "due_date": "2025-08-14",
+    "total": 5586.62
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00024",
+    "invoice_date": "2025-07-11",
+    "due_date": "2025-08-20",
+    "total": 2593.96
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00025",
+    "invoice_date": "2025-04-23",
+    "due_date": "2025-05-09",
+    "total": 3570.98
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00026",
+    "invoice_date": "2025-09-23",
+    "due_date": "2025-10-23",
+    "total": 7897.41
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00027",
+    "invoice_date": "2025-08-29",
+    "due_date": "2025-10-06",
+    "total": 5085.55
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00028",
+    "invoice_date": "2025-08-04",
+    "due_date": "2025-09-14",
+    "total": 3986.33
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00029",
+    "invoice_date": "2025-09-09",
+    "due_date": "2025-09-28",
+    "total": 1517.79
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00030",
+    "invoice_date": "2025-06-25",
+    "due_date": "2025-08-03",
+    "total": 1867.05
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00031",
+    "invoice_date": "2025-09-05",
+    "due_date": "2025-10-12",
+    "total": 3826.42
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00032",
+    "invoice_date": "2025-04-23",
+    "due_date": "2025-05-17",
+    "total": 3826.82
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00033",
+    "invoice_date": "2025-06-25",
+    "due_date": "2025-07-19",
+    "total": 824.28
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00034",
+    "invoice_date": "2025-09-23",
+    "due_date": "2025-10-10",
+    "total": 4601.02
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00035",
+    "invoice_date": "2025-07-30",
+    "due_date": "2025-09-09",
+    "total": 776.47
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00036",
+    "invoice_date": "2025-09-18",
+    "due_date": "2025-10-14",
+    "total": 3309.51
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00037",
+    "invoice_date": "2025-04-03",
+    "due_date": "2025-05-15",
+    "total": 2065.42
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00038",
+    "invoice_date": "2025-07-19",
+    "due_date": "2025-08-03",
+    "total": 3647.29
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00039",
+    "invoice_date": "2025-05-17",
+    "due_date": "2025-06-09",
+    "total": 5402.25
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00040",
+    "invoice_date": "2025-09-16",
+    "due_date": "2025-10-27",
+    "total": 3413.61
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00041",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-07-14",
+    "total": 946.01
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00042",
+    "invoice_date": "2025-09-03",
+    "due_date": "2025-10-11",
+    "total": 2709.91
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00043",
+    "invoice_date": "2025-06-19",
+    "due_date": "2025-07-04",
+    "total": 2461.05
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00044",
+    "invoice_date": "2025-05-30",
+    "due_date": "2025-06-21",
+    "total": 4603.65
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00045",
+    "invoice_date": "2025-04-08",
+    "due_date": "2025-05-03",
+    "total": 2863.75
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00046",
+    "invoice_date": "2025-08-14",
+    "due_date": "2025-08-30",
+    "total": 4036.74
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00047",
+    "invoice_date": "2025-04-27",
+    "due_date": "2025-06-06",
+    "total": 6733.57
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00048",
+    "invoice_date": "2025-09-14",
+    "due_date": "2025-10-16",
+    "total": 1247.63
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00049",
+    "invoice_date": "2025-05-12",
+    "due_date": "2025-06-18",
+    "total": 1427.57
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00050",
+    "invoice_date": "2025-07-02",
+    "due_date": "2025-07-18",
+    "total": 4254.75
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00051",
+    "invoice_date": "2025-04-27",
+    "due_date": "2025-05-12",
+    "total": 6734.03
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00052",
+    "invoice_date": "2025-05-23",
+    "due_date": "2025-06-12",
+    "total": 4980.76
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00053",
+    "invoice_date": "2025-05-31",
+    "due_date": "2025-07-12",
+    "total": 1868.08
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00054",
+    "invoice_date": "2025-06-15",
+    "due_date": "2025-07-17",
+    "total": 1915.88
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00055",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-06-23",
+    "total": 7988.61
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00056",
+    "invoice_date": "2025-08-18",
+    "due_date": "2025-09-15",
+    "total": 1841.7
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00057",
+    "invoice_date": "2025-09-22",
+    "due_date": "2025-10-26",
+    "total": 2426.7
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00058",
+    "invoice_date": "2025-04-26",
+    "due_date": "2025-05-14",
+    "total": 5118.06
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00059",
+    "invoice_date": "2025-06-24",
+    "due_date": "2025-08-02",
+    "total": 1343.87
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00060",
+    "invoice_date": "2025-04-17",
+    "due_date": "2025-05-08",
+    "total": 5984.9
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00061",
+    "invoice_date": "2025-04-15",
+    "due_date": "2025-05-14",
+    "total": 3218.18
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00062",
+    "invoice_date": "2025-09-24",
+    "due_date": "2025-10-27",
+    "total": 4308.85
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00063",
+    "invoice_date": "2025-05-04",
+    "due_date": "2025-06-02",
+    "total": 5587.58
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00064",
+    "invoice_date": "2025-07-21",
+    "due_date": "2025-08-23",
+    "total": 1506.01
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00065",
+    "invoice_date": "2025-06-25",
+    "due_date": "2025-07-28",
+    "total": 1933.02
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00066",
+    "invoice_date": "2025-05-17",
+    "due_date": "2025-06-03",
+    "total": 2526.42
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00067",
+    "invoice_date": "2025-08-17",
+    "due_date": "2025-09-29",
+    "total": 3355.22
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00068",
+    "invoice_date": "2025-04-04",
+    "due_date": "2025-05-03",
+    "total": 895.6
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00069",
+    "invoice_date": "2025-06-10",
+    "due_date": "2025-07-15",
+    "total": 1128.52
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00070",
+    "invoice_date": "2025-07-31",
+    "due_date": "2025-09-08",
+    "total": 965.08
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00071",
+    "invoice_date": "2025-06-16",
+    "due_date": "2025-07-11",
+    "total": 5710.8
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00072",
+    "invoice_date": "2025-09-29",
+    "due_date": "2025-10-31",
+    "total": 3857.5
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00073",
+    "invoice_date": "2025-04-27",
+    "due_date": "2025-06-02",
+    "total": 602.33
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00074",
+    "invoice_date": "2025-06-30",
+    "due_date": "2025-07-16",
+    "total": 1697.65
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00075",
+    "invoice_date": "2025-06-24",
+    "due_date": "2025-08-05",
+    "total": 6517.26
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00076",
+    "invoice_date": "2025-05-28",
+    "due_date": "2025-06-13",
+    "total": 7763.28
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00077",
+    "invoice_date": "2025-07-06",
+    "due_date": "2025-08-16",
+    "total": 6792.87
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00078",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-04-27",
+    "total": 690.54
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00079",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-06-03",
+    "total": 7151.78
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00080",
+    "invoice_date": "2025-05-07",
+    "due_date": "2025-06-11",
+    "total": 4295.59
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00081",
+    "invoice_date": "2025-05-14",
+    "due_date": "2025-06-14",
+    "total": 4366.06
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00082",
+    "invoice_date": "2025-07-19",
+    "due_date": "2025-08-13",
+    "total": 7708.09
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00083",
+    "invoice_date": "2025-09-01",
+    "due_date": "2025-09-22",
+    "total": 1576.89
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00084",
+    "invoice_date": "2025-04-30",
+    "due_date": "2025-06-07",
+    "total": 3512.71
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00085",
+    "invoice_date": "2025-09-16",
+    "due_date": "2025-10-10",
+    "total": 854.49
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00086",
+    "invoice_date": "2025-06-09",
+    "due_date": "2025-06-25",
+    "total": 6963.21
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00087",
+    "invoice_date": "2025-04-14",
+    "due_date": "2025-05-29",
+    "total": 1698.03
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00088",
+    "invoice_date": "2025-09-21",
+    "due_date": "2025-11-05",
+    "total": 994.59
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00089",
+    "invoice_date": "2025-09-20",
+    "due_date": "2025-10-09",
+    "total": 5905.45
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00090",
+    "invoice_date": "2025-09-05",
+    "due_date": "2025-10-02",
+    "total": 6316.69
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00091",
+    "invoice_date": "2025-04-14",
+    "due_date": "2025-05-17",
+    "total": 4665.31
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00092",
+    "invoice_date": "2025-07-22",
+    "due_date": "2025-08-06",
+    "total": 6276.09
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00093",
+    "invoice_date": "2025-09-13",
+    "due_date": "2025-10-18",
+    "total": 2936.93
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00094",
+    "invoice_date": "2025-06-09",
+    "due_date": "2025-07-13",
+    "total": 4811.5
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00095",
+    "invoice_date": "2025-05-31",
+    "due_date": "2025-06-16",
+    "total": 1412.72
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00096",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-06-24",
+    "total": 2870.98
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00097",
+    "invoice_date": "2025-06-21",
+    "due_date": "2025-08-02",
+    "total": 6714.45
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00098",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-05-09",
+    "total": 4166.39
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00099",
+    "invoice_date": "2025-07-01",
+    "due_date": "2025-07-26",
+    "total": 5393.95
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00100",
+    "invoice_date": "2025-07-14",
+    "due_date": "2025-08-12",
+    "total": 1452.65
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00101",
+    "invoice_date": "2025-04-09",
+    "due_date": "2025-05-08",
+    "total": 6560.81
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00102",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-06-19",
+    "total": 4586.55
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00103",
+    "invoice_date": "2025-04-21",
+    "due_date": "2025-05-25",
+    "total": 4460.92
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00104",
+    "invoice_date": "2025-09-13",
+    "due_date": "2025-10-13",
+    "total": 4165.52
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00105",
+    "invoice_date": "2025-07-15",
+    "due_date": "2025-08-12",
+    "total": 5191.96
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00106",
+    "invoice_date": "2025-06-28",
+    "due_date": "2025-08-01",
+    "total": 6715.54
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00107",
+    "invoice_date": "2025-05-21",
+    "due_date": "2025-06-24",
+    "total": 2940.89
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00108",
+    "invoice_date": "2025-09-18",
+    "due_date": "2025-10-23",
+    "total": 1441.54
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00109",
+    "invoice_date": "2025-08-17",
+    "due_date": "2025-09-09",
+    "total": 1865.36
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00110",
+    "invoice_date": "2025-05-14",
+    "due_date": "2025-05-29",
+    "total": 3892.87
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00111",
+    "invoice_date": "2025-06-16",
+    "due_date": "2025-07-31",
+    "total": 6280.77
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00112",
+    "invoice_date": "2025-05-04",
+    "due_date": "2025-05-28",
+    "total": 5864.17
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00113",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-06-24",
+    "total": 5908.34
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00114",
+    "invoice_date": "2025-09-23",
+    "due_date": "2025-10-23",
+    "total": 2027.98
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00115",
+    "invoice_date": "2025-09-06",
+    "due_date": "2025-09-27",
+    "total": 644.93
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00116",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-05-22",
+    "total": 553.86
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00117",
+    "invoice_date": "2025-05-24",
+    "due_date": "2025-07-08",
+    "total": 5230.05
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00118",
+    "invoice_date": "2025-06-10",
+    "due_date": "2025-07-10",
+    "total": 1347.54
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00119",
+    "invoice_date": "2025-08-03",
+    "due_date": "2025-08-30",
+    "total": 6781.76
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00120",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-05-21",
+    "total": 2120.82
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00121",
+    "invoice_date": "2025-09-14",
+    "due_date": "2025-10-08",
+    "total": 4981.7
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00122",
+    "invoice_date": "2025-04-03",
+    "due_date": "2025-05-10",
+    "total": 7005.35
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00123",
+    "invoice_date": "2025-05-24",
+    "due_date": "2025-07-08",
+    "total": 7770.48
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00124",
+    "invoice_date": "2025-04-04",
+    "due_date": "2025-04-30",
+    "total": 2242.15
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00125",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-07-22",
+    "total": 1512.33
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00126",
+    "invoice_date": "2025-05-10",
+    "due_date": "2025-06-20",
+    "total": 4738.7
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00127",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-10-03",
+    "total": 4637.59
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00128",
+    "invoice_date": "2025-09-14",
+    "due_date": "2025-09-29",
+    "total": 7521.68
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00129",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-09-22",
+    "total": 1559.33
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00130",
+    "invoice_date": "2025-08-21",
+    "due_date": "2025-09-22",
+    "total": 7894.85
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00131",
+    "invoice_date": "2025-04-19",
+    "due_date": "2025-05-20",
+    "total": 4775.42
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00132",
+    "invoice_date": "2025-09-13",
+    "due_date": "2025-10-02",
+    "total": 6165.59
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00133",
+    "invoice_date": "2025-05-15",
+    "due_date": "2025-06-10",
+    "total": 7794.87
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00134",
+    "invoice_date": "2025-08-16",
+    "due_date": "2025-09-16",
+    "total": 2649.76
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00135",
+    "invoice_date": "2025-05-09",
+    "due_date": "2025-06-08",
+    "total": 5121.94
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00136",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-07-10",
+    "total": 1593.97
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00137",
+    "invoice_date": "2025-05-01",
+    "due_date": "2025-05-31",
+    "total": 2921.28
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00138",
+    "invoice_date": "2025-05-04",
+    "due_date": "2025-05-23",
+    "total": 6922.5
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00139",
+    "invoice_date": "2025-04-29",
+    "due_date": "2025-05-28",
+    "total": 1151.54
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00140",
+    "invoice_date": "2025-04-19",
+    "due_date": "2025-05-20",
+    "total": 4502.59
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00141",
+    "invoice_date": "2025-09-22",
+    "due_date": "2025-10-14",
+    "total": 4752.35
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00142",
+    "invoice_date": "2025-09-02",
+    "due_date": "2025-10-17",
+    "total": 6551.75
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00143",
+    "invoice_date": "2025-06-21",
+    "due_date": "2025-08-02",
+    "total": 5586.77
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00144",
+    "invoice_date": "2025-05-21",
+    "due_date": "2025-06-18",
+    "total": 2509.63
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00145",
+    "invoice_date": "2025-05-13",
+    "due_date": "2025-06-22",
+    "total": 6201.09
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00146",
+    "invoice_date": "2025-04-29",
+    "due_date": "2025-05-28",
+    "total": 5141.41
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00147",
+    "invoice_date": "2025-07-20",
+    "due_date": "2025-08-21",
+    "total": 4390.49
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00148",
+    "invoice_date": "2025-08-21",
+    "due_date": "2025-09-20",
+    "total": 7329.1
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00149",
+    "invoice_date": "2025-05-04",
+    "due_date": "2025-06-15",
+    "total": 4944.95
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00150",
+    "invoice_date": "2025-05-18",
+    "due_date": "2025-06-09",
+    "total": 2893.54
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00151",
+    "invoice_date": "2025-05-27",
+    "due_date": "2025-07-03",
+    "total": 4765.3
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00152",
+    "invoice_date": "2025-04-16",
+    "due_date": "2025-05-25",
+    "total": 5718.73
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00153",
+    "invoice_date": "2025-05-19",
+    "due_date": "2025-06-20",
+    "total": 6685.71
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00154",
+    "invoice_date": "2025-08-30",
+    "due_date": "2025-10-09",
+    "total": 3284.13
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00155",
+    "invoice_date": "2025-09-19",
+    "due_date": "2025-10-27",
+    "total": 5148.53
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00156",
+    "invoice_date": "2025-08-04",
+    "due_date": "2025-08-23",
+    "total": 7032.84
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00157",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-06-08",
+    "total": 6494.07
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00158",
+    "invoice_date": "2025-06-16",
+    "due_date": "2025-07-07",
+    "total": 7225.19
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00159",
+    "invoice_date": "2025-08-07",
+    "due_date": "2025-08-29",
+    "total": 6798.28
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00160",
+    "invoice_date": "2025-06-19",
+    "due_date": "2025-08-03",
+    "total": 7366.58
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00161",
+    "invoice_date": "2025-07-10",
+    "due_date": "2025-07-29",
+    "total": 1105.24
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00162",
+    "invoice_date": "2025-07-22",
+    "due_date": "2025-08-06",
+    "total": 987.44
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00163",
+    "invoice_date": "2025-05-06",
+    "due_date": "2025-05-27",
+    "total": 1393.36
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00164",
+    "invoice_date": "2025-04-06",
+    "due_date": "2025-05-10",
+    "total": 2164.19
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00165",
+    "invoice_date": "2025-05-22",
+    "due_date": "2025-06-22",
+    "total": 814.67
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00166",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-04-26",
+    "total": 7012.91
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00167",
+    "invoice_date": "2025-04-20",
+    "due_date": "2025-06-01",
+    "total": 6336.0
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00168",
+    "invoice_date": "2025-06-24",
+    "due_date": "2025-07-20",
+    "total": 3610.18
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00169",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-06-18",
+    "total": 6832.44
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00170",
+    "invoice_date": "2025-05-29",
+    "due_date": "2025-06-20",
+    "total": 1251.17
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00171",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-07-07",
+    "total": 4603.5
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00172",
+    "invoice_date": "2025-05-16",
+    "due_date": "2025-06-13",
+    "total": 3909.17
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00173",
+    "invoice_date": "2025-08-13",
+    "due_date": "2025-09-03",
+    "total": 6232.73
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00174",
+    "invoice_date": "2025-05-25",
+    "due_date": "2025-06-22",
+    "total": 3109.53
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00175",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-07-05",
+    "total": 6365.65
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00176",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-06-25",
+    "total": 1077.64
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00177",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-07-06",
+    "total": 6168.33
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00178",
+    "invoice_date": "2025-04-13",
+    "due_date": "2025-05-02",
+    "total": 2446.12
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00179",
+    "invoice_date": "2025-09-08",
+    "due_date": "2025-09-25",
+    "total": 2164.78
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00180",
+    "invoice_date": "2025-08-12",
+    "due_date": "2025-08-30",
+    "total": 7505.99
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00181",
+    "invoice_date": "2025-06-12",
+    "due_date": "2025-07-26",
+    "total": 3842.39
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00182",
+    "invoice_date": "2025-08-17",
+    "due_date": "2025-09-05",
+    "total": 959.82
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00183",
+    "invoice_date": "2025-06-23",
+    "due_date": "2025-08-06",
+    "total": 4517.34
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00184",
+    "invoice_date": "2025-08-19",
+    "due_date": "2025-09-26",
+    "total": 6386.32
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00185",
+    "invoice_date": "2025-05-05",
+    "due_date": "2025-05-20",
+    "total": 4231.96
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00186",
+    "invoice_date": "2025-05-07",
+    "due_date": "2025-06-15",
+    "total": 2064.67
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00187",
+    "invoice_date": "2025-08-02",
+    "due_date": "2025-09-05",
+    "total": 5160.87
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00188",
+    "invoice_date": "2025-08-21",
+    "due_date": "2025-10-05",
+    "total": 5422.85
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00189",
+    "invoice_date": "2025-06-03",
+    "due_date": "2025-07-11",
+    "total": 4716.51
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00190",
+    "invoice_date": "2025-06-14",
+    "due_date": "2025-06-29",
+    "total": 2691.31
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00191",
+    "invoice_date": "2025-09-17",
+    "due_date": "2025-10-27",
+    "total": 5405.36
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00192",
+    "invoice_date": "2025-08-26",
+    "due_date": "2025-09-27",
+    "total": 1671.27
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00193",
+    "invoice_date": "2025-05-23",
+    "due_date": "2025-07-02",
+    "total": 1247.41
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00194",
+    "invoice_date": "2025-04-28",
+    "due_date": "2025-05-23",
+    "total": 3491.35
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00195",
+    "invoice_date": "2025-09-06",
+    "due_date": "2025-10-20",
+    "total": 7750.38
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00196",
+    "invoice_date": "2025-07-14",
+    "due_date": "2025-08-05",
+    "total": 7953.71
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00197",
+    "invoice_date": "2025-04-06",
+    "due_date": "2025-05-09",
+    "total": 7484.66
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00198",
+    "invoice_date": "2025-04-02",
+    "due_date": "2025-05-08",
+    "total": 7791.09
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00199",
+    "invoice_date": "2025-05-14",
+    "due_date": "2025-06-01",
+    "total": 2802.68
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00200",
+    "invoice_date": "2025-07-03",
+    "due_date": "2025-08-05",
+    "total": 1269.0
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00201",
+    "invoice_date": "2025-06-23",
+    "due_date": "2025-08-06",
+    "total": 4981.49
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00202",
+    "invoice_date": "2025-05-26",
+    "due_date": "2025-06-22",
+    "total": 7167.38
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00203",
+    "invoice_date": "2025-06-22",
+    "due_date": "2025-08-03",
+    "total": 2351.99
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00204",
+    "invoice_date": "2025-04-16",
+    "due_date": "2025-05-18",
+    "total": 3240.41
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00205",
+    "invoice_date": "2025-07-04",
+    "due_date": "2025-07-23",
+    "total": 2824.78
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00206",
+    "invoice_date": "2025-08-27",
+    "due_date": "2025-10-09",
+    "total": 3448.46
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00207",
+    "invoice_date": "2025-09-02",
+    "due_date": "2025-10-03",
+    "total": 7472.66
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00208",
+    "invoice_date": "2025-09-10",
+    "due_date": "2025-10-24",
+    "total": 2389.6
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00209",
+    "invoice_date": "2025-08-06",
+    "due_date": "2025-08-23",
+    "total": 6236.3
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00210",
+    "invoice_date": "2025-06-10",
+    "due_date": "2025-06-25",
+    "total": 5419.0
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00211",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-05-31",
+    "total": 1886.93
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00212",
+    "invoice_date": "2025-04-29",
+    "due_date": "2025-06-02",
+    "total": 5925.07
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00213",
+    "invoice_date": "2025-05-19",
+    "due_date": "2025-06-24",
+    "total": 2618.14
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00214",
+    "invoice_date": "2025-05-28",
+    "due_date": "2025-06-19",
+    "total": 6060.51
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00215",
+    "invoice_date": "2025-05-28",
+    "due_date": "2025-06-23",
+    "total": 4467.03
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00216",
+    "invoice_date": "2025-05-25",
+    "due_date": "2025-06-14",
+    "total": 7823.31
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00217",
+    "invoice_date": "2025-07-29",
+    "due_date": "2025-08-22",
+    "total": 4288.72
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00218",
+    "invoice_date": "2025-07-25",
+    "due_date": "2025-08-15",
+    "total": 2389.21
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00219",
+    "invoice_date": "2025-09-02",
+    "due_date": "2025-10-09",
+    "total": 4358.46
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00220",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-07-07",
+    "total": 5323.03
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00221",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-06-02",
+    "total": 5116.74
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00222",
+    "invoice_date": "2025-06-29",
+    "due_date": "2025-07-14",
+    "total": 1466.96
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00223",
+    "invoice_date": "2025-04-20",
+    "due_date": "2025-05-11",
+    "total": 530.97
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00224",
+    "invoice_date": "2025-07-08",
+    "due_date": "2025-07-24",
+    "total": 7383.34
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00225",
+    "invoice_date": "2025-07-09",
+    "due_date": "2025-08-13",
+    "total": 706.88
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00226",
+    "invoice_date": "2025-05-21",
+    "due_date": "2025-06-26",
+    "total": 7557.59
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00227",
+    "invoice_date": "2025-07-29",
+    "due_date": "2025-08-15",
+    "total": 2859.42
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00228",
+    "invoice_date": "2025-08-11",
+    "due_date": "2025-09-13",
+    "total": 6008.6
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00229",
+    "invoice_date": "2025-07-17",
+    "due_date": "2025-08-12",
+    "total": 1202.67
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00230",
+    "invoice_date": "2025-07-04",
+    "due_date": "2025-07-23",
+    "total": 5707.18
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00231",
+    "invoice_date": "2025-06-05",
+    "due_date": "2025-06-20",
+    "total": 5491.36
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00232",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-05-27",
+    "total": 4043.77
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00233",
+    "invoice_date": "2025-05-30",
+    "due_date": "2025-07-12",
+    "total": 7373.22
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00234",
+    "invoice_date": "2025-08-12",
+    "due_date": "2025-09-12",
+    "total": 2860.32
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00235",
+    "invoice_date": "2025-09-17",
+    "due_date": "2025-10-28",
+    "total": 5905.09
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00236",
+    "invoice_date": "2025-06-09",
+    "due_date": "2025-07-12",
+    "total": 2003.13
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00237",
+    "invoice_date": "2025-06-18",
+    "due_date": "2025-07-19",
+    "total": 1218.12
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00238",
+    "invoice_date": "2025-06-14",
+    "due_date": "2025-07-20",
+    "total": 1979.05
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00239",
+    "invoice_date": "2025-06-18",
+    "due_date": "2025-07-30",
+    "total": 1662.39
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00240",
+    "invoice_date": "2025-09-29",
+    "due_date": "2025-10-30",
+    "total": 7231.89
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00241",
+    "invoice_date": "2025-09-15",
+    "due_date": "2025-10-05",
+    "total": 4482.66
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00242",
+    "invoice_date": "2025-07-05",
+    "due_date": "2025-07-22",
+    "total": 7449.41
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00243",
+    "invoice_date": "2025-07-17",
+    "due_date": "2025-08-27",
+    "total": 4861.75
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00244",
+    "invoice_date": "2025-06-15",
+    "due_date": "2025-07-27",
+    "total": 6974.47
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00245",
+    "invoice_date": "2025-09-15",
+    "due_date": "2025-10-25",
+    "total": 4712.14
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00246",
+    "invoice_date": "2025-05-09",
+    "due_date": "2025-06-17",
+    "total": 3162.81
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00247",
+    "invoice_date": "2025-04-04",
+    "due_date": "2025-05-17",
+    "total": 2153.67
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00248",
+    "invoice_date": "2025-06-03",
+    "due_date": "2025-07-10",
+    "total": 5556.44
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00249",
+    "invoice_date": "2025-09-10",
+    "due_date": "2025-10-15",
+    "total": 3454.02
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00250",
+    "invoice_date": "2025-04-04",
+    "due_date": "2025-04-23",
+    "total": 5361.63
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00251",
+    "invoice_date": "2025-07-06",
+    "due_date": "2025-08-19",
+    "total": 950.53
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00252",
+    "invoice_date": "2025-09-12",
+    "due_date": "2025-10-06",
+    "total": 6768.05
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00253",
+    "invoice_date": "2025-04-20",
+    "due_date": "2025-05-17",
+    "total": 7863.18
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00254",
+    "invoice_date": "2025-07-13",
+    "due_date": "2025-08-06",
+    "total": 4321.14
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00255",
+    "invoice_date": "2025-07-29",
+    "due_date": "2025-08-29",
+    "total": 3110.06
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00256",
+    "invoice_date": "2025-06-26",
+    "due_date": "2025-07-15",
+    "total": 3382.06
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00257",
+    "invoice_date": "2025-04-21",
+    "due_date": "2025-05-27",
+    "total": 2966.13
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00258",
+    "invoice_date": "2025-05-31",
+    "due_date": "2025-06-19",
+    "total": 4158.1
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00259",
+    "invoice_date": "2025-07-15",
+    "due_date": "2025-08-03",
+    "total": 5688.9
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00260",
+    "invoice_date": "2025-06-20",
+    "due_date": "2025-08-04",
+    "total": 2589.24
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00261",
+    "invoice_date": "2025-05-27",
+    "due_date": "2025-06-16",
+    "total": 7430.13
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00262",
+    "invoice_date": "2025-06-01",
+    "due_date": "2025-07-11",
+    "total": 5639.06
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00263",
+    "invoice_date": "2025-09-16",
+    "due_date": "2025-10-29",
+    "total": 4801.44
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00264",
+    "invoice_date": "2025-08-24",
+    "due_date": "2025-10-01",
+    "total": 2417.08
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00265",
+    "invoice_date": "2025-07-17",
+    "due_date": "2025-08-30",
+    "total": 2905.26
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00266",
+    "invoice_date": "2025-06-01",
+    "due_date": "2025-06-18",
+    "total": 4086.95
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00267",
+    "invoice_date": "2025-05-04",
+    "due_date": "2025-05-28",
+    "total": 2685.2
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00268",
+    "invoice_date": "2025-06-06",
+    "due_date": "2025-06-26",
+    "total": 7375.73
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00269",
+    "invoice_date": "2025-06-05",
+    "due_date": "2025-07-07",
+    "total": 2360.84
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00270",
+    "invoice_date": "2025-06-06",
+    "due_date": "2025-07-04",
+    "total": 575.59
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00271",
+    "invoice_date": "2025-05-01",
+    "due_date": "2025-05-23",
+    "total": 1635.45
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00272",
+    "invoice_date": "2025-05-16",
+    "due_date": "2025-06-28",
+    "total": 6754.77
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00273",
+    "invoice_date": "2025-08-22",
+    "due_date": "2025-09-21",
+    "total": 3398.13
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00274",
+    "invoice_date": "2025-05-20",
+    "due_date": "2025-06-10",
+    "total": 878.29
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00275",
+    "invoice_date": "2025-04-22",
+    "due_date": "2025-05-17",
+    "total": 1533.81
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00276",
+    "invoice_date": "2025-08-05",
+    "due_date": "2025-09-02",
+    "total": 7281.07
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00277",
+    "invoice_date": "2025-07-30",
+    "due_date": "2025-08-27",
+    "total": 5780.33
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00278",
+    "invoice_date": "2025-07-15",
+    "due_date": "2025-08-15",
+    "total": 3382.42
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00279",
+    "invoice_date": "2025-07-03",
+    "due_date": "2025-07-23",
+    "total": 2619.9
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00280",
+    "invoice_date": "2025-08-30",
+    "due_date": "2025-09-15",
+    "total": 5392.72
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00281",
+    "invoice_date": "2025-05-22",
+    "due_date": "2025-06-16",
+    "total": 1470.93
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00282",
+    "invoice_date": "2025-07-13",
+    "due_date": "2025-08-17",
+    "total": 4359.63
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00283",
+    "invoice_date": "2025-07-08",
+    "due_date": "2025-08-19",
+    "total": 1795.42
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00284",
+    "invoice_date": "2025-07-18",
+    "due_date": "2025-08-29",
+    "total": 614.42
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00285",
+    "invoice_date": "2025-08-23",
+    "due_date": "2025-09-21",
+    "total": 7331.2
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00286",
+    "invoice_date": "2025-09-03",
+    "due_date": "2025-10-14",
+    "total": 6277.88
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00287",
+    "invoice_date": "2025-04-21",
+    "due_date": "2025-05-13",
+    "total": 7376.38
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00288",
+    "invoice_date": "2025-09-22",
+    "due_date": "2025-10-11",
+    "total": 5814.14
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00289",
+    "invoice_date": "2025-07-29",
+    "due_date": "2025-08-16",
+    "total": 5339.47
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00290",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-06-27",
+    "total": 5534.65
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00291",
+    "invoice_date": "2025-07-31",
+    "due_date": "2025-08-31",
+    "total": 3219.5
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00292",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-05-26",
+    "total": 3873.48
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00293",
+    "invoice_date": "2025-07-05",
+    "due_date": "2025-08-01",
+    "total": 6386.54
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00294",
+    "invoice_date": "2025-05-07",
+    "due_date": "2025-06-04",
+    "total": 4581.95
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00295",
+    "invoice_date": "2025-05-04",
+    "due_date": "2025-05-25",
+    "total": 2024.34
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00296",
+    "invoice_date": "2025-04-16",
+    "due_date": "2025-05-01",
+    "total": 2268.55
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00297",
+    "invoice_date": "2025-08-21",
+    "due_date": "2025-10-04",
+    "total": 5972.09
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00298",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-06-26",
+    "total": 4688.59
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00299",
+    "invoice_date": "2025-08-04",
+    "due_date": "2025-09-08",
+    "total": 1465.47
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00300",
+    "invoice_date": "2025-05-10",
+    "due_date": "2025-05-27",
+    "total": 7580.48
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00301",
+    "invoice_date": "2025-09-14",
+    "due_date": "2025-10-27",
+    "total": 6766.21
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00302",
+    "invoice_date": "2025-07-25",
+    "due_date": "2025-08-27",
+    "total": 7954.45
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00303",
+    "invoice_date": "2025-08-24",
+    "due_date": "2025-09-12",
+    "total": 3830.48
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00304",
+    "invoice_date": "2025-06-12",
+    "due_date": "2025-07-05",
+    "total": 709.0
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00305",
+    "invoice_date": "2025-05-21",
+    "due_date": "2025-06-20",
+    "total": 2074.68
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00306",
+    "invoice_date": "2025-09-26",
+    "due_date": "2025-10-21",
+    "total": 5688.22
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00307",
+    "invoice_date": "2025-07-21",
+    "due_date": "2025-08-23",
+    "total": 898.26
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00308",
+    "invoice_date": "2025-09-13",
+    "due_date": "2025-10-03",
+    "total": 3039.47
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00309",
+    "invoice_date": "2025-09-16",
+    "due_date": "2025-10-31",
+    "total": 2509.33
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00310",
+    "invoice_date": "2025-07-01",
+    "due_date": "2025-07-30",
+    "total": 2031.88
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00311",
+    "invoice_date": "2025-04-22",
+    "due_date": "2025-05-20",
+    "total": 3292.0
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00312",
+    "invoice_date": "2025-06-20",
+    "due_date": "2025-07-18",
+    "total": 7644.72
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00313",
+    "invoice_date": "2025-07-14",
+    "due_date": "2025-07-31",
+    "total": 3075.52
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00314",
+    "invoice_date": "2025-07-03",
+    "due_date": "2025-08-13",
+    "total": 7924.01
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00315",
+    "invoice_date": "2025-06-23",
+    "due_date": "2025-08-03",
+    "total": 608.86
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00316",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-06-03",
+    "total": 2602.6
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00317",
+    "invoice_date": "2025-05-05",
+    "due_date": "2025-06-18",
+    "total": 6562.4
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00318",
+    "invoice_date": "2025-04-16",
+    "due_date": "2025-05-02",
+    "total": 3340.99
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00319",
+    "invoice_date": "2025-07-17",
+    "due_date": "2025-08-21",
+    "total": 5828.27
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00320",
+    "invoice_date": "2025-07-25",
+    "due_date": "2025-09-07",
+    "total": 3763.79
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00321",
+    "invoice_date": "2025-07-27",
+    "due_date": "2025-09-04",
+    "total": 1020.56
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00322",
+    "invoice_date": "2025-06-05",
+    "due_date": "2025-07-05",
+    "total": 1321.01
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00323",
+    "invoice_date": "2025-07-10",
+    "due_date": "2025-08-06",
+    "total": 2027.97
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00324",
+    "invoice_date": "2025-05-16",
+    "due_date": "2025-06-01",
+    "total": 1087.1
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00325",
+    "invoice_date": "2025-04-16",
+    "due_date": "2025-05-06",
+    "total": 5300.78
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00326",
+    "invoice_date": "2025-07-05",
+    "due_date": "2025-07-27",
+    "total": 4297.4
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00327",
+    "invoice_date": "2025-08-29",
+    "due_date": "2025-10-02",
+    "total": 1402.61
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00328",
+    "invoice_date": "2025-08-16",
+    "due_date": "2025-09-03",
+    "total": 6500.93
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00329",
+    "invoice_date": "2025-08-03",
+    "due_date": "2025-08-28",
+    "total": 4542.78
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00330",
+    "invoice_date": "2025-06-17",
+    "due_date": "2025-07-07",
+    "total": 6633.36
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00331",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-06-02",
+    "total": 1689.72
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00332",
+    "invoice_date": "2025-05-15",
+    "due_date": "2025-06-13",
+    "total": 3179.33
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00333",
+    "invoice_date": "2025-07-14",
+    "due_date": "2025-08-14",
+    "total": 632.72
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00334",
+    "invoice_date": "2025-06-28",
+    "due_date": "2025-08-02",
+    "total": 1694.45
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00335",
+    "invoice_date": "2025-05-02",
+    "due_date": "2025-05-29",
+    "total": 858.28
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00336",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-06-22",
+    "total": 5302.44
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00337",
+    "invoice_date": "2025-08-22",
+    "due_date": "2025-09-29",
+    "total": 1234.29
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00338",
+    "invoice_date": "2025-04-14",
+    "due_date": "2025-05-19",
+    "total": 6956.09
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00339",
+    "invoice_date": "2025-09-20",
+    "due_date": "2025-10-15",
+    "total": 4572.05
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00340",
+    "invoice_date": "2025-04-02",
+    "due_date": "2025-05-08",
+    "total": 2052.1
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00341",
+    "invoice_date": "2025-06-21",
+    "due_date": "2025-07-21",
+    "total": 6816.18
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00342",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-09-17",
+    "total": 5484.94
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00343",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-09-13",
+    "total": 963.02
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00344",
+    "invoice_date": "2025-07-12",
+    "due_date": "2025-08-20",
+    "total": 4582.52
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00345",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-05-29",
+    "total": 4168.58
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00346",
+    "invoice_date": "2025-09-23",
+    "due_date": "2025-10-12",
+    "total": 3868.5
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00347",
+    "invoice_date": "2025-05-02",
+    "due_date": "2025-05-26",
+    "total": 7313.63
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00348",
+    "invoice_date": "2025-04-27",
+    "due_date": "2025-05-12",
+    "total": 7128.06
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00349",
+    "invoice_date": "2025-08-27",
+    "due_date": "2025-09-28",
+    "total": 2911.53
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00350",
+    "invoice_date": "2025-04-22",
+    "due_date": "2025-06-03",
+    "total": 2348.66
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00351",
+    "invoice_date": "2025-08-03",
+    "due_date": "2025-08-20",
+    "total": 6635.39
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00352",
+    "invoice_date": "2025-09-06",
+    "due_date": "2025-10-10",
+    "total": 1477.09
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00353",
+    "invoice_date": "2025-04-24",
+    "due_date": "2025-05-31",
+    "total": 3104.38
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00354",
+    "invoice_date": "2025-04-15",
+    "due_date": "2025-05-24",
+    "total": 1823.71
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00355",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-06-10",
+    "total": 4452.76
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00356",
+    "invoice_date": "2025-08-22",
+    "due_date": "2025-09-08",
+    "total": 2067.8
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00357",
+    "invoice_date": "2025-05-17",
+    "due_date": "2025-06-23",
+    "total": 2195.71
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00358",
+    "invoice_date": "2025-09-09",
+    "due_date": "2025-10-11",
+    "total": 5796.24
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00359",
+    "invoice_date": "2025-06-18",
+    "due_date": "2025-07-27",
+    "total": 2117.2
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00360",
+    "invoice_date": "2025-04-07",
+    "due_date": "2025-04-26",
+    "total": 7466.55
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00361",
+    "invoice_date": "2025-06-22",
+    "due_date": "2025-07-24",
+    "total": 6008.09
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00362",
+    "invoice_date": "2025-07-20",
+    "due_date": "2025-08-17",
+    "total": 992.95
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00363",
+    "invoice_date": "2025-07-24",
+    "due_date": "2025-08-22",
+    "total": 4375.1
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00364",
+    "invoice_date": "2025-05-25",
+    "due_date": "2025-07-07",
+    "total": 1899.65
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00365",
+    "invoice_date": "2025-06-18",
+    "due_date": "2025-07-17",
+    "total": 1635.51
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00366",
+    "invoice_date": "2025-04-12",
+    "due_date": "2025-05-22",
+    "total": 2695.89
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00367",
+    "invoice_date": "2025-09-13",
+    "due_date": "2025-10-05",
+    "total": 5775.11
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00368",
+    "invoice_date": "2025-08-04",
+    "due_date": "2025-09-12",
+    "total": 5637.13
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00369",
+    "invoice_date": "2025-08-15",
+    "due_date": "2025-09-25",
+    "total": 1738.75
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00370",
+    "invoice_date": "2025-07-16",
+    "due_date": "2025-08-13",
+    "total": 5771.0
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00371",
+    "invoice_date": "2025-04-19",
+    "due_date": "2025-05-24",
+    "total": 5023.95
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00372",
+    "invoice_date": "2025-07-20",
+    "due_date": "2025-08-10",
+    "total": 2702.71
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00373",
+    "invoice_date": "2025-07-01",
+    "due_date": "2025-07-16",
+    "total": 710.19
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00374",
+    "invoice_date": "2025-07-07",
+    "due_date": "2025-08-09",
+    "total": 6917.94
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00375",
+    "invoice_date": "2025-07-21",
+    "due_date": "2025-08-06",
+    "total": 1654.43
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00376",
+    "invoice_date": "2025-07-27",
+    "due_date": "2025-08-19",
+    "total": 768.59
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00377",
+    "invoice_date": "2025-09-07",
+    "due_date": "2025-09-24",
+    "total": 1322.88
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00378",
+    "invoice_date": "2025-07-03",
+    "due_date": "2025-07-25",
+    "total": 5795.35
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00379",
+    "invoice_date": "2025-09-07",
+    "due_date": "2025-10-10",
+    "total": 1257.39
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00380",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-09-20",
+    "total": 3554.88
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00381",
+    "invoice_date": "2025-05-17",
+    "due_date": "2025-06-29",
+    "total": 2706.15
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00382",
+    "invoice_date": "2025-05-22",
+    "due_date": "2025-06-11",
+    "total": 799.25
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00383",
+    "invoice_date": "2025-04-20",
+    "due_date": "2025-05-28",
+    "total": 1064.52
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00384",
+    "invoice_date": "2025-04-26",
+    "due_date": "2025-05-21",
+    "total": 3974.7
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00385",
+    "invoice_date": "2025-09-27",
+    "due_date": "2025-10-22",
+    "total": 3728.96
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00386",
+    "invoice_date": "2025-04-27",
+    "due_date": "2025-05-18",
+    "total": 866.65
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00387",
+    "invoice_date": "2025-05-12",
+    "due_date": "2025-06-10",
+    "total": 3225.25
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00388",
+    "invoice_date": "2025-05-15",
+    "due_date": "2025-06-05",
+    "total": 3469.27
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00389",
+    "invoice_date": "2025-08-04",
+    "due_date": "2025-09-10",
+    "total": 4484.46
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00390",
+    "invoice_date": "2025-08-07",
+    "due_date": "2025-08-30",
+    "total": 4773.9
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00391",
+    "invoice_date": "2025-08-22",
+    "due_date": "2025-09-29",
+    "total": 6295.8
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00392",
+    "invoice_date": "2025-09-13",
+    "due_date": "2025-10-01",
+    "total": 7892.42
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00393",
+    "invoice_date": "2025-07-30",
+    "due_date": "2025-08-17",
+    "total": 2468.96
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00394",
+    "invoice_date": "2025-08-12",
+    "due_date": "2025-09-22",
+    "total": 733.27
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00395",
+    "invoice_date": "2025-05-24",
+    "due_date": "2025-06-08",
+    "total": 787.96
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00396",
+    "invoice_date": "2025-07-28",
+    "due_date": "2025-08-12",
+    "total": 6164.28
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00397",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-05-23",
+    "total": 6276.31
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00398",
+    "invoice_date": "2025-06-09",
+    "due_date": "2025-07-01",
+    "total": 1468.59
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00399",
+    "invoice_date": "2025-04-30",
+    "due_date": "2025-05-26",
+    "total": 2499.87
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00400",
+    "invoice_date": "2025-06-14",
+    "due_date": "2025-07-26",
+    "total": 4304.94
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00401",
+    "invoice_date": "2025-09-11",
+    "due_date": "2025-10-24",
+    "total": 6068.5
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00402",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-09-16",
+    "total": 5657.62
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00403",
+    "invoice_date": "2025-09-20",
+    "due_date": "2025-10-07",
+    "total": 646.02
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00404",
+    "invoice_date": "2025-09-01",
+    "due_date": "2025-10-08",
+    "total": 4717.46
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00405",
+    "invoice_date": "2025-07-07",
+    "due_date": "2025-08-13",
+    "total": 7994.8
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00406",
+    "invoice_date": "2025-05-23",
+    "due_date": "2025-06-19",
+    "total": 6297.46
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00407",
+    "invoice_date": "2025-07-23",
+    "due_date": "2025-08-11",
+    "total": 1184.39
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00408",
+    "invoice_date": "2025-08-14",
+    "due_date": "2025-08-30",
+    "total": 1315.36
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00409",
+    "invoice_date": "2025-08-02",
+    "due_date": "2025-09-16",
+    "total": 7180.77
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00410",
+    "invoice_date": "2025-09-28",
+    "due_date": "2025-10-27",
+    "total": 6714.48
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00411",
+    "invoice_date": "2025-07-18",
+    "due_date": "2025-08-16",
+    "total": 2092.09
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00412",
+    "invoice_date": "2025-05-14",
+    "due_date": "2025-06-09",
+    "total": 3486.0
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00413",
+    "invoice_date": "2025-08-16",
+    "due_date": "2025-09-18",
+    "total": 4294.16
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00414",
+    "invoice_date": "2025-06-16",
+    "due_date": "2025-07-28",
+    "total": 3584.03
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00415",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-07-11",
+    "total": 6651.93
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00416",
+    "invoice_date": "2025-05-22",
+    "due_date": "2025-06-06",
+    "total": 7587.75
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00417",
+    "invoice_date": "2025-09-08",
+    "due_date": "2025-10-21",
+    "total": 1123.48
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00418",
+    "invoice_date": "2025-07-23",
+    "due_date": "2025-09-03",
+    "total": 2565.62
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00419",
+    "invoice_date": "2025-05-09",
+    "due_date": "2025-06-02",
+    "total": 3497.98
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00420",
+    "invoice_date": "2025-09-29",
+    "due_date": "2025-11-02",
+    "total": 5021.9
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00421",
+    "invoice_date": "2025-09-18",
+    "due_date": "2025-10-09",
+    "total": 5810.46
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00422",
+    "invoice_date": "2025-06-26",
+    "due_date": "2025-07-16",
+    "total": 2170.74
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00423",
+    "invoice_date": "2025-07-15",
+    "due_date": "2025-08-25",
+    "total": 7083.68
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00424",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-05-30",
+    "total": 4348.03
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00425",
+    "invoice_date": "2025-09-16",
+    "due_date": "2025-10-01",
+    "total": 5679.05
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00426",
+    "invoice_date": "2025-07-04",
+    "due_date": "2025-07-24",
+    "total": 4245.2
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00427",
+    "invoice_date": "2025-08-29",
+    "due_date": "2025-09-19",
+    "total": 4969.9
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00428",
+    "invoice_date": "2025-09-21",
+    "due_date": "2025-11-04",
+    "total": 5369.87
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00429",
+    "invoice_date": "2025-05-26",
+    "due_date": "2025-07-09",
+    "total": 2452.59
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00430",
+    "invoice_date": "2025-04-27",
+    "due_date": "2025-05-24",
+    "total": 1435.59
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00431",
+    "invoice_date": "2025-04-05",
+    "due_date": "2025-05-15",
+    "total": 5150.24
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00432",
+    "invoice_date": "2025-07-25",
+    "due_date": "2025-08-15",
+    "total": 6126.34
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00433",
+    "invoice_date": "2025-07-09",
+    "due_date": "2025-08-19",
+    "total": 1587.17
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00434",
+    "invoice_date": "2025-04-11",
+    "due_date": "2025-05-16",
+    "total": 6479.7
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00435",
+    "invoice_date": "2025-08-09",
+    "due_date": "2025-08-31",
+    "total": 4775.32
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00436",
+    "invoice_date": "2025-09-18",
+    "due_date": "2025-10-21",
+    "total": 4130.79
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00437",
+    "invoice_date": "2025-09-18",
+    "due_date": "2025-10-03",
+    "total": 7797.42
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00438",
+    "invoice_date": "2025-04-28",
+    "due_date": "2025-06-08",
+    "total": 6214.33
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00439",
+    "invoice_date": "2025-05-13",
+    "due_date": "2025-06-06",
+    "total": 7467.73
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00440",
+    "invoice_date": "2025-05-04",
+    "due_date": "2025-05-30",
+    "total": 3441.1
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00441",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-09-13",
+    "total": 2797.72
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00442",
+    "invoice_date": "2025-09-17",
+    "due_date": "2025-10-18",
+    "total": 4218.95
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00443",
+    "invoice_date": "2025-09-11",
+    "due_date": "2025-10-19",
+    "total": 4305.99
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00444",
+    "invoice_date": "2025-06-08",
+    "due_date": "2025-07-01",
+    "total": 1173.88
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00445",
+    "invoice_date": "2025-05-02",
+    "due_date": "2025-05-26",
+    "total": 6751.22
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00446",
+    "invoice_date": "2025-07-21",
+    "due_date": "2025-08-24",
+    "total": 6120.8
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00447",
+    "invoice_date": "2025-04-07",
+    "due_date": "2025-05-11",
+    "total": 7267.82
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00448",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-06-17",
+    "total": 4577.04
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00449",
+    "invoice_date": "2025-07-29",
+    "due_date": "2025-08-22",
+    "total": 7308.12
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00450",
+    "invoice_date": "2025-07-05",
+    "due_date": "2025-08-13",
+    "total": 7022.7
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00451",
+    "invoice_date": "2025-08-17",
+    "due_date": "2025-09-17",
+    "total": 5951.07
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00452",
+    "invoice_date": "2025-05-16",
+    "due_date": "2025-06-12",
+    "total": 7518.55
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00453",
+    "invoice_date": "2025-05-29",
+    "due_date": "2025-07-04",
+    "total": 4317.1
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00454",
+    "invoice_date": "2025-04-11",
+    "due_date": "2025-04-26",
+    "total": 7183.56
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00455",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-05-23",
+    "total": 1750.76
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00456",
+    "invoice_date": "2025-06-05",
+    "due_date": "2025-07-10",
+    "total": 6052.66
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00457",
+    "invoice_date": "2025-04-14",
+    "due_date": "2025-05-25",
+    "total": 2563.31
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00458",
+    "invoice_date": "2025-07-14",
+    "due_date": "2025-08-20",
+    "total": 3440.61
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00459",
+    "invoice_date": "2025-07-08",
+    "due_date": "2025-07-26",
+    "total": 2032.88
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00460",
+    "invoice_date": "2025-04-26",
+    "due_date": "2025-05-22",
+    "total": 7591.38
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00461",
+    "invoice_date": "2025-09-23",
+    "due_date": "2025-10-11",
+    "total": 3667.96
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00462",
+    "invoice_date": "2025-08-01",
+    "due_date": "2025-08-18",
+    "total": 2879.1
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00463",
+    "invoice_date": "2025-08-21",
+    "due_date": "2025-09-21",
+    "total": 7152.62
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00464",
+    "invoice_date": "2025-07-14",
+    "due_date": "2025-08-04",
+    "total": 2220.53
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00465",
+    "invoice_date": "2025-04-23",
+    "due_date": "2025-05-30",
+    "total": 5175.89
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00466",
+    "invoice_date": "2025-04-23",
+    "due_date": "2025-05-17",
+    "total": 6960.65
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00467",
+    "invoice_date": "2025-08-31",
+    "due_date": "2025-09-18",
+    "total": 2692.06
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00468",
+    "invoice_date": "2025-07-24",
+    "due_date": "2025-08-29",
+    "total": 1191.11
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00469",
+    "invoice_date": "2025-08-03",
+    "due_date": "2025-08-18",
+    "total": 4769.99
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00470",
+    "invoice_date": "2025-06-19",
+    "due_date": "2025-07-26",
+    "total": 6922.41
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00471",
+    "invoice_date": "2025-07-06",
+    "due_date": "2025-07-28",
+    "total": 5876.51
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00472",
+    "invoice_date": "2025-08-12",
+    "due_date": "2025-09-01",
+    "total": 5632.68
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00473",
+    "invoice_date": "2025-05-28",
+    "due_date": "2025-07-02",
+    "total": 1325.31
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00474",
+    "invoice_date": "2025-07-09",
+    "due_date": "2025-08-11",
+    "total": 5746.02
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00475",
+    "invoice_date": "2025-04-21",
+    "due_date": "2025-06-03",
+    "total": 1205.24
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00476",
+    "invoice_date": "2025-06-06",
+    "due_date": "2025-07-16",
+    "total": 5811.19
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00477",
+    "invoice_date": "2025-05-02",
+    "due_date": "2025-05-26",
+    "total": 6222.09
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00478",
+    "invoice_date": "2025-08-19",
+    "due_date": "2025-09-27",
+    "total": 1670.33
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00479",
+    "invoice_date": "2025-08-07",
+    "due_date": "2025-08-24",
+    "total": 2994.73
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00480",
+    "invoice_date": "2025-06-27",
+    "due_date": "2025-07-17",
+    "total": 4108.81
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00481",
+    "invoice_date": "2025-07-26",
+    "due_date": "2025-08-24",
+    "total": 5244.96
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00482",
+    "invoice_date": "2025-07-16",
+    "due_date": "2025-08-23",
+    "total": 7510.99
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00483",
+    "invoice_date": "2025-08-11",
+    "due_date": "2025-09-10",
+    "total": 5956.89
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00484",
+    "invoice_date": "2025-08-22",
+    "due_date": "2025-09-18",
+    "total": 3002.91
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00485",
+    "invoice_date": "2025-09-06",
+    "due_date": "2025-10-08",
+    "total": 4026.74
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00486",
+    "invoice_date": "2025-08-28",
+    "due_date": "2025-10-02",
+    "total": 741.06
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00487",
+    "invoice_date": "2025-05-13",
+    "due_date": "2025-06-19",
+    "total": 2035.48
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00488",
+    "invoice_date": "2025-08-10",
+    "due_date": "2025-08-29",
+    "total": 692.67
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00489",
+    "invoice_date": "2025-04-18",
+    "due_date": "2025-05-14",
+    "total": 595.09
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00490",
+    "invoice_date": "2025-06-17",
+    "due_date": "2025-07-24",
+    "total": 1283.27
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00491",
+    "invoice_date": "2025-07-19",
+    "due_date": "2025-08-27",
+    "total": 7724.71
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00492",
+    "invoice_date": "2025-05-07",
+    "due_date": "2025-05-22",
+    "total": 705.15
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00493",
+    "invoice_date": "2025-05-20",
+    "due_date": "2025-06-25",
+    "total": 6806.07
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00494",
+    "invoice_date": "2025-07-24",
+    "due_date": "2025-08-14",
+    "total": 7270.18
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00495",
+    "invoice_date": "2025-07-11",
+    "due_date": "2025-08-06",
+    "total": 6342.96
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00496",
+    "invoice_date": "2025-08-18",
+    "due_date": "2025-09-26",
+    "total": 4228.13
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00497",
+    "invoice_date": "2025-05-24",
+    "due_date": "2025-06-19",
+    "total": 7567.4
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00498",
+    "invoice_date": "2025-04-06",
+    "due_date": "2025-04-24",
+    "total": 7664.26
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00499",
+    "invoice_date": "2025-04-09",
+    "due_date": "2025-05-08",
+    "total": 5133.48
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00500",
+    "invoice_date": "2025-05-31",
+    "due_date": "2025-06-16",
+    "total": 2010.3
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00501",
+    "invoice_date": "2025-08-28",
+    "due_date": "2025-09-23",
+    "total": 4732.59
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00502",
+    "invoice_date": "2025-09-23",
+    "due_date": "2025-10-19",
+    "total": 580.04
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00503",
+    "invoice_date": "2025-09-28",
+    "due_date": "2025-10-31",
+    "total": 5203.29
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00504",
+    "invoice_date": "2025-06-16",
+    "due_date": "2025-07-29",
+    "total": 7444.54
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00505",
+    "invoice_date": "2025-06-30",
+    "due_date": "2025-07-26",
+    "total": 6655.99
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00506",
+    "invoice_date": "2025-08-25",
+    "due_date": "2025-09-10",
+    "total": 4045.02
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00507",
+    "invoice_date": "2025-05-08",
+    "due_date": "2025-06-06",
+    "total": 4621.33
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00508",
+    "invoice_date": "2025-05-23",
+    "due_date": "2025-06-26",
+    "total": 723.02
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00509",
+    "invoice_date": "2025-09-20",
+    "due_date": "2025-11-03",
+    "total": 877.1
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00510",
+    "invoice_date": "2025-04-18",
+    "due_date": "2025-05-23",
+    "total": 6087.75
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00511",
+    "invoice_date": "2025-04-29",
+    "due_date": "2025-05-30",
+    "total": 3105.31
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00512",
+    "invoice_date": "2025-07-23",
+    "due_date": "2025-09-05",
+    "total": 4369.03
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00513",
+    "invoice_date": "2025-09-28",
+    "due_date": "2025-10-30",
+    "total": 7845.88
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00514",
+    "invoice_date": "2025-09-25",
+    "due_date": "2025-10-26",
+    "total": 7817.18
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00515",
+    "invoice_date": "2025-08-02",
+    "due_date": "2025-08-24",
+    "total": 936.58
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00516",
+    "invoice_date": "2025-08-05",
+    "due_date": "2025-09-01",
+    "total": 6444.65
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00517",
+    "invoice_date": "2025-04-19",
+    "due_date": "2025-05-30",
+    "total": 2627.33
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00518",
+    "invoice_date": "2025-07-07",
+    "due_date": "2025-08-03",
+    "total": 6082.92
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00519",
+    "invoice_date": "2025-08-17",
+    "due_date": "2025-09-16",
+    "total": 3097.09
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00520",
+    "invoice_date": "2025-04-02",
+    "due_date": "2025-05-13",
+    "total": 6239.83
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00521",
+    "invoice_date": "2025-06-28",
+    "due_date": "2025-08-05",
+    "total": 6835.83
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00522",
+    "invoice_date": "2025-07-25",
+    "due_date": "2025-09-03",
+    "total": 3452.85
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00523",
+    "invoice_date": "2025-06-06",
+    "due_date": "2025-07-21",
+    "total": 6489.43
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00524",
+    "invoice_date": "2025-05-29",
+    "due_date": "2025-06-23",
+    "total": 2534.63
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00525",
+    "invoice_date": "2025-07-12",
+    "due_date": "2025-08-10",
+    "total": 7826.67
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00526",
+    "invoice_date": "2025-07-18",
+    "due_date": "2025-08-08",
+    "total": 6192.69
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00527",
+    "invoice_date": "2025-04-13",
+    "due_date": "2025-05-22",
+    "total": 6722.17
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00528",
+    "invoice_date": "2025-07-31",
+    "due_date": "2025-09-02",
+    "total": 3477.03
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00529",
+    "invoice_date": "2025-06-26",
+    "due_date": "2025-08-05",
+    "total": 7644.46
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00530",
+    "invoice_date": "2025-09-27",
+    "due_date": "2025-11-03",
+    "total": 1361.26
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00531",
+    "invoice_date": "2025-07-07",
+    "due_date": "2025-08-07",
+    "total": 7721.6
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00532",
+    "invoice_date": "2025-09-06",
+    "due_date": "2025-09-25",
+    "total": 822.1
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00533",
+    "invoice_date": "2025-05-01",
+    "due_date": "2025-05-23",
+    "total": 2167.32
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00534",
+    "invoice_date": "2025-04-17",
+    "due_date": "2025-05-31",
+    "total": 1111.29
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00535",
+    "invoice_date": "2025-04-08",
+    "due_date": "2025-05-12",
+    "total": 5650.58
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00536",
+    "invoice_date": "2025-08-19",
+    "due_date": "2025-09-03",
+    "total": 4829.15
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00537",
+    "invoice_date": "2025-05-23",
+    "due_date": "2025-07-02",
+    "total": 2215.08
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00538",
+    "invoice_date": "2025-08-12",
+    "due_date": "2025-09-08",
+    "total": 4302.51
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00539",
+    "invoice_date": "2025-09-10",
+    "due_date": "2025-10-17",
+    "total": 6424.72
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00540",
+    "invoice_date": "2025-06-30",
+    "due_date": "2025-07-18",
+    "total": 5120.05
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00541",
+    "invoice_date": "2025-05-13",
+    "due_date": "2025-06-23",
+    "total": 671.25
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00542",
+    "invoice_date": "2025-09-03",
+    "due_date": "2025-10-12",
+    "total": 5684.05
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00543",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-06-15",
+    "total": 4413.04
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00544",
+    "invoice_date": "2025-05-16",
+    "due_date": "2025-06-13",
+    "total": 2608.47
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00545",
+    "invoice_date": "2025-07-01",
+    "due_date": "2025-08-06",
+    "total": 1613.22
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00546",
+    "invoice_date": "2025-04-30",
+    "due_date": "2025-06-06",
+    "total": 7732.42
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00547",
+    "invoice_date": "2025-06-03",
+    "due_date": "2025-07-07",
+    "total": 4277.01
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00548",
+    "invoice_date": "2025-05-30",
+    "due_date": "2025-07-14",
+    "total": 7856.9
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00549",
+    "invoice_date": "2025-09-08",
+    "due_date": "2025-10-21",
+    "total": 6851.15
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00550",
+    "invoice_date": "2025-09-25",
+    "due_date": "2025-11-09",
+    "total": 6908.9
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00551",
+    "invoice_date": "2025-09-09",
+    "due_date": "2025-10-14",
+    "total": 4439.91
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00552",
+    "invoice_date": "2025-05-18",
+    "due_date": "2025-06-03",
+    "total": 3548.45
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00553",
+    "invoice_date": "2025-08-23",
+    "due_date": "2025-09-27",
+    "total": 4322.37
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00554",
+    "invoice_date": "2025-09-07",
+    "due_date": "2025-10-07",
+    "total": 4754.31
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00555",
+    "invoice_date": "2025-07-16",
+    "due_date": "2025-08-12",
+    "total": 4561.02
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00556",
+    "invoice_date": "2025-06-20",
+    "due_date": "2025-07-16",
+    "total": 6574.54
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00557",
+    "invoice_date": "2025-08-25",
+    "due_date": "2025-09-09",
+    "total": 1965.56
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00558",
+    "invoice_date": "2025-07-25",
+    "due_date": "2025-08-20",
+    "total": 5647.7
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00559",
+    "invoice_date": "2025-04-09",
+    "due_date": "2025-05-19",
+    "total": 3276.65
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00560",
+    "invoice_date": "2025-04-03",
+    "due_date": "2025-05-07",
+    "total": 6039.0
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00561",
+    "invoice_date": "2025-08-08",
+    "due_date": "2025-09-13",
+    "total": 1958.99
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00562",
+    "invoice_date": "2025-05-14",
+    "due_date": "2025-06-22",
+    "total": 1158.5
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00563",
+    "invoice_date": "2025-06-13",
+    "due_date": "2025-07-23",
+    "total": 5884.44
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00564",
+    "invoice_date": "2025-06-23",
+    "due_date": "2025-08-01",
+    "total": 7886.55
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00565",
+    "invoice_date": "2025-04-05",
+    "due_date": "2025-04-20",
+    "total": 688.75
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00566",
+    "invoice_date": "2025-06-20",
+    "due_date": "2025-07-07",
+    "total": 4818.99
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00567",
+    "invoice_date": "2025-05-20",
+    "due_date": "2025-06-09",
+    "total": 5901.25
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00568",
+    "invoice_date": "2025-07-24",
+    "due_date": "2025-08-10",
+    "total": 1177.33
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00569",
+    "invoice_date": "2025-06-29",
+    "due_date": "2025-08-01",
+    "total": 5664.58
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00570",
+    "invoice_date": "2025-05-26",
+    "due_date": "2025-06-12",
+    "total": 4231.88
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00571",
+    "invoice_date": "2025-06-03",
+    "due_date": "2025-07-18",
+    "total": 4365.81
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00572",
+    "invoice_date": "2025-04-05",
+    "due_date": "2025-04-30",
+    "total": 1304.22
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00573",
+    "invoice_date": "2025-07-30",
+    "due_date": "2025-09-02",
+    "total": 7122.82
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00574",
+    "invoice_date": "2025-05-30",
+    "due_date": "2025-07-09",
+    "total": 5116.52
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00575",
+    "invoice_date": "2025-06-03",
+    "due_date": "2025-06-24",
+    "total": 1368.08
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00576",
+    "invoice_date": "2025-06-23",
+    "due_date": "2025-07-21",
+    "total": 4580.67
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00577",
+    "invoice_date": "2025-05-08",
+    "due_date": "2025-06-09",
+    "total": 2039.4
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00578",
+    "invoice_date": "2025-05-17",
+    "due_date": "2025-06-03",
+    "total": 6233.36
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00579",
+    "invoice_date": "2025-04-08",
+    "due_date": "2025-05-05",
+    "total": 5408.47
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00580",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-07-04",
+    "total": 4571.62
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00581",
+    "invoice_date": "2025-06-10",
+    "due_date": "2025-07-11",
+    "total": 5912.97
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00582",
+    "invoice_date": "2025-05-14",
+    "due_date": "2025-06-08",
+    "total": 2783.45
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00583",
+    "invoice_date": "2025-06-13",
+    "due_date": "2025-07-26",
+    "total": 5752.05
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00584",
+    "invoice_date": "2025-05-21",
+    "due_date": "2025-06-11",
+    "total": 4635.89
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00585",
+    "invoice_date": "2025-07-21",
+    "due_date": "2025-08-14",
+    "total": 5504.88
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00586",
+    "invoice_date": "2025-09-02",
+    "due_date": "2025-10-10",
+    "total": 7786.87
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00587",
+    "invoice_date": "2025-04-28",
+    "due_date": "2025-06-09",
+    "total": 2036.07
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00588",
+    "invoice_date": "2025-06-19",
+    "due_date": "2025-07-30",
+    "total": 3045.87
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00589",
+    "invoice_date": "2025-07-19",
+    "due_date": "2025-08-12",
+    "total": 6738.29
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00590",
+    "invoice_date": "2025-06-28",
+    "due_date": "2025-07-25",
+    "total": 6152.97
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00591",
+    "invoice_date": "2025-06-15",
+    "due_date": "2025-07-27",
+    "total": 1799.73
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00592",
+    "invoice_date": "2025-05-24",
+    "due_date": "2025-07-03",
+    "total": 826.12
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00593",
+    "invoice_date": "2025-07-06",
+    "due_date": "2025-08-05",
+    "total": 1414.44
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00594",
+    "invoice_date": "2025-05-14",
+    "due_date": "2025-06-19",
+    "total": 7902.93
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00595",
+    "invoice_date": "2025-07-01",
+    "due_date": "2025-08-04",
+    "total": 5455.04
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00596",
+    "invoice_date": "2025-05-24",
+    "due_date": "2025-06-30",
+    "total": 6368.13
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00597",
+    "invoice_date": "2025-09-08",
+    "due_date": "2025-10-05",
+    "total": 5930.33
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00598",
+    "invoice_date": "2025-07-06",
+    "due_date": "2025-08-15",
+    "total": 2445.31
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00599",
+    "invoice_date": "2025-08-14",
+    "due_date": "2025-09-22",
+    "total": 4094.26
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00600",
+    "invoice_date": "2025-05-31",
+    "due_date": "2025-07-13",
+    "total": 4432.44
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00601",
+    "invoice_date": "2025-05-02",
+    "due_date": "2025-06-13",
+    "total": 1268.79
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00602",
+    "invoice_date": "2025-08-15",
+    "due_date": "2025-09-10",
+    "total": 5226.71
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00603",
+    "invoice_date": "2025-06-12",
+    "due_date": "2025-07-10",
+    "total": 6218.5
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00604",
+    "invoice_date": "2025-08-05",
+    "due_date": "2025-08-26",
+    "total": 5414.88
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00605",
+    "invoice_date": "2025-04-19",
+    "due_date": "2025-05-14",
+    "total": 7559.79
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00606",
+    "invoice_date": "2025-05-21",
+    "due_date": "2025-06-25",
+    "total": 6700.43
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00607",
+    "invoice_date": "2025-04-28",
+    "due_date": "2025-05-30",
+    "total": 863.12
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00608",
+    "invoice_date": "2025-09-22",
+    "due_date": "2025-10-21",
+    "total": 1005.79
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00609",
+    "invoice_date": "2025-07-07",
+    "due_date": "2025-07-24",
+    "total": 2551.03
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00610",
+    "invoice_date": "2025-07-29",
+    "due_date": "2025-08-27",
+    "total": 5218.93
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00611",
+    "invoice_date": "2025-07-13",
+    "due_date": "2025-08-25",
+    "total": 7049.77
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00612",
+    "invoice_date": "2025-09-09",
+    "due_date": "2025-10-10",
+    "total": 7385.27
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00613",
+    "invoice_date": "2025-05-13",
+    "due_date": "2025-06-09",
+    "total": 1169.32
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00614",
+    "invoice_date": "2025-08-18",
+    "due_date": "2025-09-13",
+    "total": 615.03
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00615",
+    "invoice_date": "2025-05-01",
+    "due_date": "2025-05-23",
+    "total": 1261.59
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00616",
+    "invoice_date": "2025-04-29",
+    "due_date": "2025-05-19",
+    "total": 671.15
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00617",
+    "invoice_date": "2025-05-01",
+    "due_date": "2025-05-31",
+    "total": 2523.6
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00618",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-04-25",
+    "total": 3067.37
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00619",
+    "invoice_date": "2025-04-03",
+    "due_date": "2025-04-28",
+    "total": 2594.69
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00620",
+    "invoice_date": "2025-04-16",
+    "due_date": "2025-05-06",
+    "total": 6401.55
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00621",
+    "invoice_date": "2025-09-20",
+    "due_date": "2025-10-20",
+    "total": 4928.57
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00622",
+    "invoice_date": "2025-05-22",
+    "due_date": "2025-06-19",
+    "total": 3915.14
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00623",
+    "invoice_date": "2025-07-06",
+    "due_date": "2025-08-15",
+    "total": 6059.16
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00624",
+    "invoice_date": "2025-07-27",
+    "due_date": "2025-09-01",
+    "total": 2124.5
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00625",
+    "invoice_date": "2025-05-08",
+    "due_date": "2025-06-03",
+    "total": 3397.81
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00626",
+    "invoice_date": "2025-04-21",
+    "due_date": "2025-05-06",
+    "total": 6591.58
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00627",
+    "invoice_date": "2025-05-17",
+    "due_date": "2025-06-18",
+    "total": 3901.25
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00628",
+    "invoice_date": "2025-08-28",
+    "due_date": "2025-09-18",
+    "total": 1093.49
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00629",
+    "invoice_date": "2025-07-14",
+    "due_date": "2025-08-13",
+    "total": 3860.86
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00630",
+    "invoice_date": "2025-09-13",
+    "due_date": "2025-10-09",
+    "total": 713.64
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00631",
+    "invoice_date": "2025-08-11",
+    "due_date": "2025-09-17",
+    "total": 4652.05
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00632",
+    "invoice_date": "2025-05-07",
+    "due_date": "2025-06-16",
+    "total": 4915.97
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00633",
+    "invoice_date": "2025-07-26",
+    "due_date": "2025-08-28",
+    "total": 3604.64
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00634",
+    "invoice_date": "2025-07-20",
+    "due_date": "2025-08-08",
+    "total": 5462.52
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00635",
+    "invoice_date": "2025-07-06",
+    "due_date": "2025-08-09",
+    "total": 6746.51
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00636",
+    "invoice_date": "2025-08-02",
+    "due_date": "2025-08-17",
+    "total": 3506.8
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00637",
+    "invoice_date": "2025-08-01",
+    "due_date": "2025-08-30",
+    "total": 6236.35
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00638",
+    "invoice_date": "2025-07-12",
+    "due_date": "2025-08-06",
+    "total": 1944.17
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00639",
+    "invoice_date": "2025-09-25",
+    "due_date": "2025-10-13",
+    "total": 1630.66
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00640",
+    "invoice_date": "2025-04-07",
+    "due_date": "2025-05-21",
+    "total": 777.96
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00641",
+    "invoice_date": "2025-08-03",
+    "due_date": "2025-08-29",
+    "total": 3206.87
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00642",
+    "invoice_date": "2025-07-20",
+    "due_date": "2025-08-07",
+    "total": 711.68
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00643",
+    "invoice_date": "2025-04-17",
+    "due_date": "2025-05-10",
+    "total": 943.2
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00644",
+    "invoice_date": "2025-08-31",
+    "due_date": "2025-10-14",
+    "total": 3412.89
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00645",
+    "invoice_date": "2025-07-15",
+    "due_date": "2025-08-19",
+    "total": 4566.89
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00646",
+    "invoice_date": "2025-05-28",
+    "due_date": "2025-06-21",
+    "total": 3088.28
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00647",
+    "invoice_date": "2025-04-26",
+    "due_date": "2025-05-30",
+    "total": 5151.02
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00648",
+    "invoice_date": "2025-06-03",
+    "due_date": "2025-06-25",
+    "total": 2130.17
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00649",
+    "invoice_date": "2025-06-29",
+    "due_date": "2025-07-20",
+    "total": 5188.35
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00650",
+    "invoice_date": "2025-07-18",
+    "due_date": "2025-08-25",
+    "total": 2852.95
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00651",
+    "invoice_date": "2025-06-27",
+    "due_date": "2025-07-30",
+    "total": 4281.84
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00652",
+    "invoice_date": "2025-09-08",
+    "due_date": "2025-09-30",
+    "total": 5295.77
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00653",
+    "invoice_date": "2025-07-28",
+    "due_date": "2025-08-31",
+    "total": 6618.6
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00654",
+    "invoice_date": "2025-08-08",
+    "due_date": "2025-09-06",
+    "total": 2355.65
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00655",
+    "invoice_date": "2025-04-13",
+    "due_date": "2025-05-02",
+    "total": 7330.33
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00656",
+    "invoice_date": "2025-05-05",
+    "due_date": "2025-06-02",
+    "total": 2721.65
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00657",
+    "invoice_date": "2025-05-05",
+    "due_date": "2025-05-23",
+    "total": 2992.68
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00658",
+    "invoice_date": "2025-06-18",
+    "due_date": "2025-07-21",
+    "total": 7370.15
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00659",
+    "invoice_date": "2025-06-10",
+    "due_date": "2025-06-25",
+    "total": 911.61
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00660",
+    "invoice_date": "2025-08-19",
+    "due_date": "2025-09-30",
+    "total": 3995.0
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00661",
+    "invoice_date": "2025-04-11",
+    "due_date": "2025-05-23",
+    "total": 4400.12
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00662",
+    "invoice_date": "2025-04-28",
+    "due_date": "2025-05-27",
+    "total": 5053.94
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00663",
+    "invoice_date": "2025-04-18",
+    "due_date": "2025-05-16",
+    "total": 6551.02
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00664",
+    "invoice_date": "2025-08-09",
+    "due_date": "2025-09-17",
+    "total": 2904.15
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00665",
+    "invoice_date": "2025-08-10",
+    "due_date": "2025-09-04",
+    "total": 7960.7
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00666",
+    "invoice_date": "2025-05-09",
+    "due_date": "2025-06-18",
+    "total": 1602.93
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00667",
+    "invoice_date": "2025-08-12",
+    "due_date": "2025-09-03",
+    "total": 5172.84
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00668",
+    "invoice_date": "2025-08-26",
+    "due_date": "2025-09-29",
+    "total": 4410.28
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00669",
+    "invoice_date": "2025-04-08",
+    "due_date": "2025-04-26",
+    "total": 2050.55
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00670",
+    "invoice_date": "2025-07-30",
+    "due_date": "2025-08-28",
+    "total": 3071.21
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00671",
+    "invoice_date": "2025-08-26",
+    "due_date": "2025-09-30",
+    "total": 4159.73
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00672",
+    "invoice_date": "2025-07-08",
+    "due_date": "2025-08-06",
+    "total": 5029.46
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00673",
+    "invoice_date": "2025-04-07",
+    "due_date": "2025-05-20",
+    "total": 2908.41
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00674",
+    "invoice_date": "2025-04-09",
+    "due_date": "2025-05-07",
+    "total": 6804.6
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00675",
+    "invoice_date": "2025-06-03",
+    "due_date": "2025-07-08",
+    "total": 696.63
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00676",
+    "invoice_date": "2025-07-23",
+    "due_date": "2025-09-05",
+    "total": 1118.24
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00677",
+    "invoice_date": "2025-06-25",
+    "due_date": "2025-07-28",
+    "total": 6660.88
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00678",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-05-31",
+    "total": 7257.62
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00679",
+    "invoice_date": "2025-07-31",
+    "due_date": "2025-09-11",
+    "total": 3056.0
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00680",
+    "invoice_date": "2025-05-12",
+    "due_date": "2025-06-26",
+    "total": 6636.97
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00681",
+    "invoice_date": "2025-07-15",
+    "due_date": "2025-08-15",
+    "total": 7543.48
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00682",
+    "invoice_date": "2025-06-09",
+    "due_date": "2025-07-17",
+    "total": 5301.32
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00683",
+    "invoice_date": "2025-04-15",
+    "due_date": "2025-05-09",
+    "total": 2291.98
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00684",
+    "invoice_date": "2025-05-28",
+    "due_date": "2025-06-18",
+    "total": 5975.82
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00685",
+    "invoice_date": "2025-05-26",
+    "due_date": "2025-06-30",
+    "total": 6645.08
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00686",
+    "invoice_date": "2025-07-17",
+    "due_date": "2025-08-07",
+    "total": 6851.34
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00687",
+    "invoice_date": "2025-04-14",
+    "due_date": "2025-05-01",
+    "total": 1585.98
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00688",
+    "invoice_date": "2025-08-02",
+    "due_date": "2025-09-12",
+    "total": 1176.12
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00689",
+    "invoice_date": "2025-04-14",
+    "due_date": "2025-05-22",
+    "total": 4236.17
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00690",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-06-08",
+    "total": 7481.15
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00691",
+    "invoice_date": "2025-05-30",
+    "due_date": "2025-07-05",
+    "total": 5425.84
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00692",
+    "invoice_date": "2025-07-02",
+    "due_date": "2025-07-22",
+    "total": 1830.98
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00693",
+    "invoice_date": "2025-09-06",
+    "due_date": "2025-09-23",
+    "total": 4727.59
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00694",
+    "invoice_date": "2025-06-23",
+    "due_date": "2025-07-15",
+    "total": 588.89
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00695",
+    "invoice_date": "2025-04-17",
+    "due_date": "2025-05-06",
+    "total": 2585.3
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00696",
+    "invoice_date": "2025-04-03",
+    "due_date": "2025-04-20",
+    "total": 1279.44
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00697",
+    "invoice_date": "2025-04-09",
+    "due_date": "2025-05-19",
+    "total": 6962.38
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00698",
+    "invoice_date": "2025-04-29",
+    "due_date": "2025-06-01",
+    "total": 3146.55
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00699",
+    "invoice_date": "2025-04-26",
+    "due_date": "2025-05-25",
+    "total": 2148.85
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00700",
+    "invoice_date": "2025-09-10",
+    "due_date": "2025-10-02",
+    "total": 7639.22
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00701",
+    "invoice_date": "2025-08-31",
+    "due_date": "2025-09-30",
+    "total": 7903.98
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00702",
+    "invoice_date": "2025-09-23",
+    "due_date": "2025-10-18",
+    "total": 6800.36
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00703",
+    "invoice_date": "2025-08-26",
+    "due_date": "2025-10-02",
+    "total": 857.63
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00704",
+    "invoice_date": "2025-05-30",
+    "due_date": "2025-07-12",
+    "total": 3694.88
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00705",
+    "invoice_date": "2025-08-30",
+    "due_date": "2025-10-09",
+    "total": 7599.65
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00706",
+    "invoice_date": "2025-05-10",
+    "due_date": "2025-05-30",
+    "total": 1616.81
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00707",
+    "invoice_date": "2025-08-26",
+    "due_date": "2025-09-22",
+    "total": 7559.79
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00708",
+    "invoice_date": "2025-08-31",
+    "due_date": "2025-10-03",
+    "total": 7934.05
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00709",
+    "invoice_date": "2025-06-09",
+    "due_date": "2025-07-02",
+    "total": 4834.69
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00710",
+    "invoice_date": "2025-08-06",
+    "due_date": "2025-09-19",
+    "total": 1417.25
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00711",
+    "invoice_date": "2025-04-28",
+    "due_date": "2025-06-07",
+    "total": 3329.39
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00712",
+    "invoice_date": "2025-04-03",
+    "due_date": "2025-05-09",
+    "total": 3995.57
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00713",
+    "invoice_date": "2025-07-17",
+    "due_date": "2025-08-31",
+    "total": 2482.38
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00714",
+    "invoice_date": "2025-06-06",
+    "due_date": "2025-07-07",
+    "total": 2230.66
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00715",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-05-14",
+    "total": 3723.97
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00716",
+    "invoice_date": "2025-07-12",
+    "due_date": "2025-08-08",
+    "total": 7489.82
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00717",
+    "invoice_date": "2025-05-27",
+    "due_date": "2025-06-13",
+    "total": 2793.18
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00718",
+    "invoice_date": "2025-06-14",
+    "due_date": "2025-07-06",
+    "total": 2538.05
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00719",
+    "invoice_date": "2025-07-01",
+    "due_date": "2025-08-13",
+    "total": 5252.62
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00720",
+    "invoice_date": "2025-08-11",
+    "due_date": "2025-08-26",
+    "total": 960.62
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00721",
+    "invoice_date": "2025-09-14",
+    "due_date": "2025-10-28",
+    "total": 7950.18
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00722",
+    "invoice_date": "2025-07-10",
+    "due_date": "2025-08-03",
+    "total": 6120.39
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00723",
+    "invoice_date": "2025-07-22",
+    "due_date": "2025-08-29",
+    "total": 5291.26
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00724",
+    "invoice_date": "2025-08-10",
+    "due_date": "2025-09-02",
+    "total": 846.07
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00725",
+    "invoice_date": "2025-09-27",
+    "due_date": "2025-11-06",
+    "total": 6152.71
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00726",
+    "invoice_date": "2025-06-08",
+    "due_date": "2025-07-08",
+    "total": 4421.01
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00727",
+    "invoice_date": "2025-06-12",
+    "due_date": "2025-07-12",
+    "total": 1403.81
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00728",
+    "invoice_date": "2025-09-25",
+    "due_date": "2025-10-13",
+    "total": 2384.7
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00729",
+    "invoice_date": "2025-07-30",
+    "due_date": "2025-08-25",
+    "total": 2555.8
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00730",
+    "invoice_date": "2025-05-31",
+    "due_date": "2025-07-11",
+    "total": 6055.58
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00731",
+    "invoice_date": "2025-07-30",
+    "due_date": "2025-09-13",
+    "total": 3101.08
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00732",
+    "invoice_date": "2025-04-19",
+    "due_date": "2025-05-07",
+    "total": 1336.55
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00733",
+    "invoice_date": "2025-06-15",
+    "due_date": "2025-07-07",
+    "total": 5574.7
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00734",
+    "invoice_date": "2025-08-05",
+    "due_date": "2025-09-06",
+    "total": 5692.03
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00735",
+    "invoice_date": "2025-06-13",
+    "due_date": "2025-07-15",
+    "total": 2414.26
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00736",
+    "invoice_date": "2025-09-20",
+    "due_date": "2025-10-05",
+    "total": 4738.58
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00737",
+    "invoice_date": "2025-07-18",
+    "due_date": "2025-08-03",
+    "total": 5582.24
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00738",
+    "invoice_date": "2025-07-17",
+    "due_date": "2025-08-21",
+    "total": 4744.58
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00739",
+    "invoice_date": "2025-07-14",
+    "due_date": "2025-08-20",
+    "total": 1189.04
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00740",
+    "invoice_date": "2025-05-15",
+    "due_date": "2025-06-18",
+    "total": 2424.76
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00741",
+    "invoice_date": "2025-05-18",
+    "due_date": "2025-06-06",
+    "total": 4490.12
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00742",
+    "invoice_date": "2025-07-18",
+    "due_date": "2025-08-12",
+    "total": 3138.66
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00743",
+    "invoice_date": "2025-04-05",
+    "due_date": "2025-04-29",
+    "total": 908.47
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00744",
+    "invoice_date": "2025-07-07",
+    "due_date": "2025-07-25",
+    "total": 1538.14
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00745",
+    "invoice_date": "2025-07-07",
+    "due_date": "2025-08-05",
+    "total": 6502.17
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00746",
+    "invoice_date": "2025-09-09",
+    "due_date": "2025-10-06",
+    "total": 3911.75
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00747",
+    "invoice_date": "2025-09-13",
+    "due_date": "2025-10-05",
+    "total": 3536.7
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00748",
+    "invoice_date": "2025-06-22",
+    "due_date": "2025-08-04",
+    "total": 1127.81
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00749",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-06-11",
+    "total": 7387.13
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00750",
+    "invoice_date": "2025-08-29",
+    "due_date": "2025-09-30",
+    "total": 7010.71
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00751",
+    "invoice_date": "2025-05-15",
+    "due_date": "2025-06-18",
+    "total": 6534.56
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00752",
+    "invoice_date": "2025-05-09",
+    "due_date": "2025-06-01",
+    "total": 4212.07
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00753",
+    "invoice_date": "2025-04-30",
+    "due_date": "2025-06-05",
+    "total": 6966.24
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00754",
+    "invoice_date": "2025-09-15",
+    "due_date": "2025-10-22",
+    "total": 6217.53
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00755",
+    "invoice_date": "2025-05-07",
+    "due_date": "2025-06-01",
+    "total": 3687.01
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00756",
+    "invoice_date": "2025-07-13",
+    "due_date": "2025-08-09",
+    "total": 4803.14
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00757",
+    "invoice_date": "2025-07-26",
+    "due_date": "2025-08-29",
+    "total": 6009.75
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00758",
+    "invoice_date": "2025-09-08",
+    "due_date": "2025-09-29",
+    "total": 1441.53
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00759",
+    "invoice_date": "2025-08-24",
+    "due_date": "2025-09-18",
+    "total": 6831.88
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00760",
+    "invoice_date": "2025-09-11",
+    "due_date": "2025-10-26",
+    "total": 7548.83
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00761",
+    "invoice_date": "2025-09-21",
+    "due_date": "2025-10-07",
+    "total": 7021.71
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00762",
+    "invoice_date": "2025-06-27",
+    "due_date": "2025-08-01",
+    "total": 3665.62
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00763",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-06-24",
+    "total": 5696.86
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00764",
+    "invoice_date": "2025-05-14",
+    "due_date": "2025-06-16",
+    "total": 1025.55
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00765",
+    "invoice_date": "2025-09-29",
+    "due_date": "2025-11-04",
+    "total": 2451.2
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00766",
+    "invoice_date": "2025-04-30",
+    "due_date": "2025-06-10",
+    "total": 5390.25
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00767",
+    "invoice_date": "2025-09-16",
+    "due_date": "2025-10-31",
+    "total": 7229.94
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00768",
+    "invoice_date": "2025-09-16",
+    "due_date": "2025-10-27",
+    "total": 6094.08
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00769",
+    "invoice_date": "2025-05-25",
+    "due_date": "2025-06-22",
+    "total": 2500.96
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00770",
+    "invoice_date": "2025-08-12",
+    "due_date": "2025-09-23",
+    "total": 5440.95
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00771",
+    "invoice_date": "2025-09-23",
+    "due_date": "2025-10-31",
+    "total": 3432.36
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00772",
+    "invoice_date": "2025-09-21",
+    "due_date": "2025-10-19",
+    "total": 565.98
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00773",
+    "invoice_date": "2025-07-25",
+    "due_date": "2025-08-20",
+    "total": 3334.51
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00774",
+    "invoice_date": "2025-04-14",
+    "due_date": "2025-05-01",
+    "total": 1999.14
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00775",
+    "invoice_date": "2025-06-12",
+    "due_date": "2025-07-03",
+    "total": 6166.85
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00776",
+    "invoice_date": "2025-04-22",
+    "due_date": "2025-06-06",
+    "total": 7797.79
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00777",
+    "invoice_date": "2025-04-05",
+    "due_date": "2025-05-19",
+    "total": 1647.52
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00778",
+    "invoice_date": "2025-07-24",
+    "due_date": "2025-08-25",
+    "total": 7129.12
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00779",
+    "invoice_date": "2025-04-19",
+    "due_date": "2025-05-25",
+    "total": 7932.65
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00780",
+    "invoice_date": "2025-08-04",
+    "due_date": "2025-08-29",
+    "total": 2063.55
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00781",
+    "invoice_date": "2025-07-28",
+    "due_date": "2025-08-30",
+    "total": 1934.99
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00782",
+    "invoice_date": "2025-07-05",
+    "due_date": "2025-08-03",
+    "total": 1317.39
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00783",
+    "invoice_date": "2025-09-27",
+    "due_date": "2025-10-30",
+    "total": 2802.18
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00784",
+    "invoice_date": "2025-09-06",
+    "due_date": "2025-10-01",
+    "total": 2814.56
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00785",
+    "invoice_date": "2025-08-23",
+    "due_date": "2025-09-12",
+    "total": 6602.7
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00786",
+    "invoice_date": "2025-04-07",
+    "due_date": "2025-05-22",
+    "total": 2066.68
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00787",
+    "invoice_date": "2025-06-13",
+    "due_date": "2025-07-26",
+    "total": 5207.14
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00788",
+    "invoice_date": "2025-09-04",
+    "due_date": "2025-10-07",
+    "total": 5366.51
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00789",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-07-04",
+    "total": 2505.49
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00790",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-06-03",
+    "total": 6323.13
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00791",
+    "invoice_date": "2025-08-14",
+    "due_date": "2025-09-04",
+    "total": 3330.2
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00792",
+    "invoice_date": "2025-09-28",
+    "due_date": "2025-10-22",
+    "total": 3436.19
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00793",
+    "invoice_date": "2025-06-19",
+    "due_date": "2025-07-17",
+    "total": 6977.19
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00794",
+    "invoice_date": "2025-05-13",
+    "due_date": "2025-06-24",
+    "total": 605.81
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00795",
+    "invoice_date": "2025-09-13",
+    "due_date": "2025-10-12",
+    "total": 2560.61
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00796",
+    "invoice_date": "2025-09-26",
+    "due_date": "2025-10-18",
+    "total": 2424.92
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00797",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-05-22",
+    "total": 7661.92
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00798",
+    "invoice_date": "2025-09-12",
+    "due_date": "2025-10-23",
+    "total": 2706.53
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00799",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-06-11",
+    "total": 2078.7
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00800",
+    "invoice_date": "2025-08-24",
+    "due_date": "2025-09-21",
+    "total": 1436.76
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00801",
+    "invoice_date": "2025-04-12",
+    "due_date": "2025-05-10",
+    "total": 5028.03
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00802",
+    "invoice_date": "2025-04-28",
+    "due_date": "2025-06-06",
+    "total": 7443.06
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00803",
+    "invoice_date": "2025-07-23",
+    "due_date": "2025-08-22",
+    "total": 3576.78
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00804",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-09-20",
+    "total": 2580.39
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00805",
+    "invoice_date": "2025-09-04",
+    "due_date": "2025-09-20",
+    "total": 3822.89
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00806",
+    "invoice_date": "2025-08-05",
+    "due_date": "2025-08-21",
+    "total": 1878.52
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00807",
+    "invoice_date": "2025-05-26",
+    "due_date": "2025-06-11",
+    "total": 5174.51
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00808",
+    "invoice_date": "2025-08-30",
+    "due_date": "2025-09-30",
+    "total": 673.39
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00809",
+    "invoice_date": "2025-06-09",
+    "due_date": "2025-07-01",
+    "total": 545.85
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00810",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-05-22",
+    "total": 1110.44
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00811",
+    "invoice_date": "2025-09-17",
+    "due_date": "2025-10-02",
+    "total": 2919.41
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00812",
+    "invoice_date": "2025-06-08",
+    "due_date": "2025-07-01",
+    "total": 4862.64
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00813",
+    "invoice_date": "2025-09-17",
+    "due_date": "2025-11-01",
+    "total": 6833.71
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00814",
+    "invoice_date": "2025-09-06",
+    "due_date": "2025-10-19",
+    "total": 7090.29
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00815",
+    "invoice_date": "2025-06-09",
+    "due_date": "2025-07-01",
+    "total": 6359.67
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00816",
+    "invoice_date": "2025-04-07",
+    "due_date": "2025-05-01",
+    "total": 1357.78
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00817",
+    "invoice_date": "2025-07-11",
+    "due_date": "2025-08-10",
+    "total": 6919.74
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00818",
+    "invoice_date": "2025-04-05",
+    "due_date": "2025-05-05",
+    "total": 674.78
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00819",
+    "invoice_date": "2025-05-05",
+    "due_date": "2025-06-14",
+    "total": 7014.39
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00820",
+    "invoice_date": "2025-04-09",
+    "due_date": "2025-05-24",
+    "total": 3053.42
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00821",
+    "invoice_date": "2025-09-03",
+    "due_date": "2025-09-19",
+    "total": 3361.49
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00822",
+    "invoice_date": "2025-06-12",
+    "due_date": "2025-07-14",
+    "total": 7511.3
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00823",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-06-06",
+    "total": 2564.39
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00824",
+    "invoice_date": "2025-08-30",
+    "due_date": "2025-09-21",
+    "total": 2734.05
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00825",
+    "invoice_date": "2025-04-23",
+    "due_date": "2025-05-13",
+    "total": 6624.34
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00826",
+    "invoice_date": "2025-05-21",
+    "due_date": "2025-06-06",
+    "total": 7636.93
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00827",
+    "invoice_date": "2025-09-29",
+    "due_date": "2025-11-02",
+    "total": 4709.35
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00828",
+    "invoice_date": "2025-06-30",
+    "due_date": "2025-08-11",
+    "total": 808.66
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00829",
+    "invoice_date": "2025-07-07",
+    "due_date": "2025-07-30",
+    "total": 2418.45
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00830",
+    "invoice_date": "2025-09-28",
+    "due_date": "2025-11-01",
+    "total": 2900.28
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00831",
+    "invoice_date": "2025-08-09",
+    "due_date": "2025-09-13",
+    "total": 6252.85
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00832",
+    "invoice_date": "2025-07-23",
+    "due_date": "2025-09-03",
+    "total": 4541.24
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00833",
+    "invoice_date": "2025-05-05",
+    "due_date": "2025-06-16",
+    "total": 1991.59
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00834",
+    "invoice_date": "2025-05-08",
+    "due_date": "2025-06-19",
+    "total": 1065.2
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00835",
+    "invoice_date": "2025-05-22",
+    "due_date": "2025-07-05",
+    "total": 5431.33
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00836",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-07-04",
+    "total": 666.3
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00837",
+    "invoice_date": "2025-07-08",
+    "due_date": "2025-08-03",
+    "total": 5445.23
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00838",
+    "invoice_date": "2025-05-20",
+    "due_date": "2025-06-23",
+    "total": 6152.46
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00839",
+    "invoice_date": "2025-06-03",
+    "due_date": "2025-06-24",
+    "total": 4973.47
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00840",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-05-05",
+    "total": 5020.45
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00841",
+    "invoice_date": "2025-07-04",
+    "due_date": "2025-08-06",
+    "total": 863.86
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00842",
+    "invoice_date": "2025-09-14",
+    "due_date": "2025-10-25",
+    "total": 1775.74
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00843",
+    "invoice_date": "2025-07-08",
+    "due_date": "2025-08-08",
+    "total": 7358.2
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00844",
+    "invoice_date": "2025-09-15",
+    "due_date": "2025-10-21",
+    "total": 3098.87
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00845",
+    "invoice_date": "2025-09-12",
+    "due_date": "2025-10-05",
+    "total": 3480.13
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00846",
+    "invoice_date": "2025-04-05",
+    "due_date": "2025-05-05",
+    "total": 5195.92
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00847",
+    "invoice_date": "2025-04-03",
+    "due_date": "2025-05-14",
+    "total": 1751.57
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00848",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-07-03",
+    "total": 943.65
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00849",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-09-18",
+    "total": 809.4
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00850",
+    "invoice_date": "2025-07-09",
+    "due_date": "2025-08-09",
+    "total": 1378.18
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00851",
+    "invoice_date": "2025-05-20",
+    "due_date": "2025-06-13",
+    "total": 1079.31
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00852",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-05-29",
+    "total": 6101.5
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00853",
+    "invoice_date": "2025-04-07",
+    "due_date": "2025-04-27",
+    "total": 1462.79
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00854",
+    "invoice_date": "2025-07-10",
+    "due_date": "2025-08-17",
+    "total": 1691.7
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00855",
+    "invoice_date": "2025-09-07",
+    "due_date": "2025-10-21",
+    "total": 1280.08
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00856",
+    "invoice_date": "2025-05-05",
+    "due_date": "2025-05-31",
+    "total": 844.82
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00857",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-07-03",
+    "total": 7943.06
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00858",
+    "invoice_date": "2025-05-15",
+    "due_date": "2025-06-07",
+    "total": 7745.23
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00859",
+    "invoice_date": "2025-06-18",
+    "due_date": "2025-07-18",
+    "total": 4136.76
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00860",
+    "invoice_date": "2025-08-06",
+    "due_date": "2025-09-11",
+    "total": 5760.88
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00861",
+    "invoice_date": "2025-04-16",
+    "due_date": "2025-05-08",
+    "total": 732.05
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00862",
+    "invoice_date": "2025-05-13",
+    "due_date": "2025-05-29",
+    "total": 2662.86
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00863",
+    "invoice_date": "2025-07-26",
+    "due_date": "2025-08-18",
+    "total": 4443.52
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00864",
+    "invoice_date": "2025-07-05",
+    "due_date": "2025-08-14",
+    "total": 3035.44
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00865",
+    "invoice_date": "2025-06-01",
+    "due_date": "2025-07-07",
+    "total": 3781.81
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00866",
+    "invoice_date": "2025-07-02",
+    "due_date": "2025-08-12",
+    "total": 5776.08
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00867",
+    "invoice_date": "2025-09-27",
+    "due_date": "2025-10-20",
+    "total": 1156.93
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00868",
+    "invoice_date": "2025-04-13",
+    "due_date": "2025-05-15",
+    "total": 3899.39
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00869",
+    "invoice_date": "2025-04-05",
+    "due_date": "2025-05-15",
+    "total": 4658.8
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00870",
+    "invoice_date": "2025-09-15",
+    "due_date": "2025-10-28",
+    "total": 843.28
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00871",
+    "invoice_date": "2025-05-13",
+    "due_date": "2025-06-01",
+    "total": 3601.45
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00872",
+    "invoice_date": "2025-08-15",
+    "due_date": "2025-09-06",
+    "total": 1592.17
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00873",
+    "invoice_date": "2025-04-28",
+    "due_date": "2025-06-06",
+    "total": 2942.59
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00874",
+    "invoice_date": "2025-09-05",
+    "due_date": "2025-10-01",
+    "total": 6044.53
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00875",
+    "invoice_date": "2025-08-17",
+    "due_date": "2025-09-04",
+    "total": 2457.04
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00876",
+    "invoice_date": "2025-09-19",
+    "due_date": "2025-10-17",
+    "total": 7425.76
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00877",
+    "invoice_date": "2025-07-27",
+    "due_date": "2025-09-10",
+    "total": 6136.56
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00878",
+    "invoice_date": "2025-06-24",
+    "due_date": "2025-07-17",
+    "total": 6722.3
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00879",
+    "invoice_date": "2025-06-08",
+    "due_date": "2025-06-30",
+    "total": 4929.15
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00880",
+    "invoice_date": "2025-05-29",
+    "due_date": "2025-06-24",
+    "total": 5816.69
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00881",
+    "invoice_date": "2025-09-06",
+    "due_date": "2025-09-30",
+    "total": 6832.43
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00882",
+    "invoice_date": "2025-05-21",
+    "due_date": "2025-06-30",
+    "total": 1601.54
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00883",
+    "invoice_date": "2025-05-03",
+    "due_date": "2025-06-01",
+    "total": 2773.15
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00884",
+    "invoice_date": "2025-07-31",
+    "due_date": "2025-09-06",
+    "total": 3729.93
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00885",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-05-24",
+    "total": 2111.29
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00886",
+    "invoice_date": "2025-07-24",
+    "due_date": "2025-08-31",
+    "total": 6642.12
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00887",
+    "invoice_date": "2025-05-29",
+    "due_date": "2025-06-27",
+    "total": 1230.8
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00888",
+    "invoice_date": "2025-09-27",
+    "due_date": "2025-11-04",
+    "total": 4877.56
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00889",
+    "invoice_date": "2025-04-20",
+    "due_date": "2025-05-16",
+    "total": 2570.64
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00890",
+    "invoice_date": "2025-07-10",
+    "due_date": "2025-08-24",
+    "total": 3172.69
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00891",
+    "invoice_date": "2025-09-02",
+    "due_date": "2025-09-29",
+    "total": 7988.97
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00892",
+    "invoice_date": "2025-07-02",
+    "due_date": "2025-08-13",
+    "total": 2673.94
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00893",
+    "invoice_date": "2025-06-23",
+    "due_date": "2025-07-08",
+    "total": 1677.11
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00894",
+    "invoice_date": "2025-08-04",
+    "due_date": "2025-09-08",
+    "total": 3061.2
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00895",
+    "invoice_date": "2025-09-02",
+    "due_date": "2025-09-23",
+    "total": 5703.44
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00896",
+    "invoice_date": "2025-07-07",
+    "due_date": "2025-08-10",
+    "total": 7583.24
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00897",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-05-29",
+    "total": 742.37
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00898",
+    "invoice_date": "2025-08-01",
+    "due_date": "2025-08-28",
+    "total": 6708.28
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00899",
+    "invoice_date": "2025-05-19",
+    "due_date": "2025-06-11",
+    "total": 891.76
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00900",
+    "invoice_date": "2025-05-10",
+    "due_date": "2025-06-15",
+    "total": 5559.07
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00901",
+    "invoice_date": "2025-08-12",
+    "due_date": "2025-09-02",
+    "total": 7602.58
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00902",
+    "invoice_date": "2025-04-26",
+    "due_date": "2025-05-14",
+    "total": 2820.92
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00903",
+    "invoice_date": "2025-06-23",
+    "due_date": "2025-08-07",
+    "total": 5426.64
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00904",
+    "invoice_date": "2025-07-06",
+    "due_date": "2025-08-16",
+    "total": 3160.07
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00905",
+    "invoice_date": "2025-08-25",
+    "due_date": "2025-09-27",
+    "total": 2916.08
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00906",
+    "invoice_date": "2025-04-23",
+    "due_date": "2025-05-24",
+    "total": 6039.25
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00907",
+    "invoice_date": "2025-07-29",
+    "due_date": "2025-09-01",
+    "total": 4080.55
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00908",
+    "invoice_date": "2025-07-01",
+    "due_date": "2025-08-07",
+    "total": 7548.65
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00909",
+    "invoice_date": "2025-07-31",
+    "due_date": "2025-08-19",
+    "total": 5802.08
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00910",
+    "invoice_date": "2025-08-08",
+    "due_date": "2025-09-19",
+    "total": 2304.1
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00911",
+    "invoice_date": "2025-06-27",
+    "due_date": "2025-08-01",
+    "total": 7368.89
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00912",
+    "invoice_date": "2025-07-10",
+    "due_date": "2025-08-11",
+    "total": 4270.4
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00913",
+    "invoice_date": "2025-06-11",
+    "due_date": "2025-07-14",
+    "total": 672.6
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00914",
+    "invoice_date": "2025-09-09",
+    "due_date": "2025-10-20",
+    "total": 5889.31
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00915",
+    "invoice_date": "2025-08-03",
+    "due_date": "2025-08-30",
+    "total": 5776.57
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00916",
+    "invoice_date": "2025-05-22",
+    "due_date": "2025-07-04",
+    "total": 5028.84
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00917",
+    "invoice_date": "2025-07-22",
+    "due_date": "2025-09-05",
+    "total": 4032.34
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00918",
+    "invoice_date": "2025-08-11",
+    "due_date": "2025-09-18",
+    "total": 7100.59
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00919",
+    "invoice_date": "2025-08-21",
+    "due_date": "2025-09-20",
+    "total": 3899.35
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00920",
+    "invoice_date": "2025-04-26",
+    "due_date": "2025-05-23",
+    "total": 6787.44
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00921",
+    "invoice_date": "2025-07-01",
+    "due_date": "2025-07-22",
+    "total": 6443.96
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00922",
+    "invoice_date": "2025-09-16",
+    "due_date": "2025-10-29",
+    "total": 4975.77
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00923",
+    "invoice_date": "2025-08-22",
+    "due_date": "2025-10-01",
+    "total": 7295.56
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00924",
+    "invoice_date": "2025-05-01",
+    "due_date": "2025-05-23",
+    "total": 1366.71
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00925",
+    "invoice_date": "2025-04-30",
+    "due_date": "2025-05-16",
+    "total": 4529.07
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00926",
+    "invoice_date": "2025-07-20",
+    "due_date": "2025-08-20",
+    "total": 7015.5
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00927",
+    "invoice_date": "2025-05-02",
+    "due_date": "2025-05-28",
+    "total": 2934.31
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00928",
+    "invoice_date": "2025-07-25",
+    "due_date": "2025-08-20",
+    "total": 6905.08
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00929",
+    "invoice_date": "2025-05-21",
+    "due_date": "2025-06-13",
+    "total": 3447.36
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00930",
+    "invoice_date": "2025-06-07",
+    "due_date": "2025-06-29",
+    "total": 4618.83
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00931",
+    "invoice_date": "2025-05-20",
+    "due_date": "2025-06-08",
+    "total": 624.8
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00932",
+    "invoice_date": "2025-04-23",
+    "due_date": "2025-05-21",
+    "total": 7550.4
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00933",
+    "invoice_date": "2025-09-20",
+    "due_date": "2025-10-30",
+    "total": 6456.64
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00934",
+    "invoice_date": "2025-09-19",
+    "due_date": "2025-11-03",
+    "total": 4311.37
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00935",
+    "invoice_date": "2025-09-04",
+    "due_date": "2025-09-19",
+    "total": 604.33
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00936",
+    "invoice_date": "2025-08-21",
+    "due_date": "2025-09-24",
+    "total": 1996.05
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00937",
+    "invoice_date": "2025-05-20",
+    "due_date": "2025-06-21",
+    "total": 7163.37
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00938",
+    "invoice_date": "2025-07-22",
+    "due_date": "2025-09-04",
+    "total": 4743.88
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00939",
+    "invoice_date": "2025-09-23",
+    "due_date": "2025-10-15",
+    "total": 4799.7
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00940",
+    "invoice_date": "2025-04-04",
+    "due_date": "2025-04-23",
+    "total": 7280.44
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00941",
+    "invoice_date": "2025-07-17",
+    "due_date": "2025-08-31",
+    "total": 1481.05
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00942",
+    "invoice_date": "2025-04-13",
+    "due_date": "2025-05-10",
+    "total": 6322.31
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00943",
+    "invoice_date": "2025-09-22",
+    "due_date": "2025-10-24",
+    "total": 7278.72
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00944",
+    "invoice_date": "2025-04-13",
+    "due_date": "2025-05-11",
+    "total": 5421.56
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00945",
+    "invoice_date": "2025-07-01",
+    "due_date": "2025-07-28",
+    "total": 1233.41
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00946",
+    "invoice_date": "2025-06-27",
+    "due_date": "2025-08-10",
+    "total": 1533.12
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00947",
+    "invoice_date": "2025-07-08",
+    "due_date": "2025-07-30",
+    "total": 5139.27
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00948",
+    "invoice_date": "2025-06-02",
+    "due_date": "2025-07-13",
+    "total": 6906.01
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00949",
+    "invoice_date": "2025-05-29",
+    "due_date": "2025-06-25",
+    "total": 5593.08
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00950",
+    "invoice_date": "2025-09-15",
+    "due_date": "2025-10-10",
+    "total": 6676.67
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00951",
+    "invoice_date": "2025-07-31",
+    "due_date": "2025-09-01",
+    "total": 1022.26
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00952",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-09-07",
+    "total": 7479.74
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00953",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-05-20",
+    "total": 1931.11
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00954",
+    "invoice_date": "2025-06-18",
+    "due_date": "2025-07-13",
+    "total": 6443.35
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00955",
+    "invoice_date": "2025-07-15",
+    "due_date": "2025-08-05",
+    "total": 2948.63
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00956",
+    "invoice_date": "2025-05-06",
+    "due_date": "2025-06-19",
+    "total": 3115.61
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00957",
+    "invoice_date": "2025-09-18",
+    "due_date": "2025-10-04",
+    "total": 3061.72
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00958",
+    "invoice_date": "2025-08-03",
+    "due_date": "2025-09-14",
+    "total": 1623.56
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00959",
+    "invoice_date": "2025-08-15",
+    "due_date": "2025-09-12",
+    "total": 7801.6
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00960",
+    "invoice_date": "2025-09-13",
+    "due_date": "2025-10-16",
+    "total": 7680.41
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00961",
+    "invoice_date": "2025-07-07",
+    "due_date": "2025-08-03",
+    "total": 6729.39
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00962",
+    "invoice_date": "2025-05-12",
+    "due_date": "2025-06-24",
+    "total": 5828.28
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00963",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-06-17",
+    "total": 6300.76
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00964",
+    "invoice_date": "2025-08-20",
+    "due_date": "2025-09-06",
+    "total": 1035.96
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00965",
+    "invoice_date": "2025-05-12",
+    "due_date": "2025-06-08",
+    "total": 5021.56
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00966",
+    "invoice_date": "2025-08-25",
+    "due_date": "2025-09-09",
+    "total": 2130.03
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00967",
+    "invoice_date": "2025-04-25",
+    "due_date": "2025-05-21",
+    "total": 6769.25
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00968",
+    "invoice_date": "2025-04-30",
+    "due_date": "2025-05-16",
+    "total": 4934.25
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00969",
+    "invoice_date": "2025-07-04",
+    "due_date": "2025-08-10",
+    "total": 7252.88
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00970",
+    "invoice_date": "2025-08-18",
+    "due_date": "2025-09-25",
+    "total": 6464.52
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00971",
+    "invoice_date": "2025-05-20",
+    "due_date": "2025-06-06",
+    "total": 1811.75
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00972",
+    "invoice_date": "2025-08-23",
+    "due_date": "2025-09-08",
+    "total": 7651.29
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00973",
+    "invoice_date": "2025-05-11",
+    "due_date": "2025-05-26",
+    "total": 7368.23
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00974",
+    "invoice_date": "2025-04-10",
+    "due_date": "2025-05-22",
+    "total": 2349.1
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00975",
+    "invoice_date": "2025-06-03",
+    "due_date": "2025-07-11",
+    "total": 7861.04
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00976",
+    "invoice_date": "2025-04-05",
+    "due_date": "2025-04-29",
+    "total": 2552.4
+  },
+  {
+    "vendor": "Oracle",
+    "invoice_number": "INV-00977",
+    "invoice_date": "2025-09-06",
+    "due_date": "2025-10-20",
+    "total": 5682.59
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00978",
+    "invoice_date": "2025-09-28",
+    "due_date": "2025-10-22",
+    "total": 5572.88
+  },
+  {
+    "vendor": "IBM",
+    "invoice_number": "INV-00979",
+    "invoice_date": "2025-08-31",
+    "due_date": "2025-10-09",
+    "total": 6702.82
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00980",
+    "invoice_date": "2025-07-30",
+    "due_date": "2025-08-27",
+    "total": 7727.5
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00981",
+    "invoice_date": "2025-09-16",
+    "due_date": "2025-10-06",
+    "total": 4530.61
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00982",
+    "invoice_date": "2025-08-26",
+    "due_date": "2025-10-03",
+    "total": 2901.3
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00983",
+    "invoice_date": "2025-06-25",
+    "due_date": "2025-07-16",
+    "total": 3928.41
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00984",
+    "invoice_date": "2025-07-28",
+    "due_date": "2025-09-01",
+    "total": 646.27
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00985",
+    "invoice_date": "2025-09-24",
+    "due_date": "2025-11-06",
+    "total": 1355.91
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00986",
+    "invoice_date": "2025-05-23",
+    "due_date": "2025-06-11",
+    "total": 7524.83
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00987",
+    "invoice_date": "2025-05-24",
+    "due_date": "2025-06-23",
+    "total": 6753.48
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00988",
+    "invoice_date": "2025-07-30",
+    "due_date": "2025-08-27",
+    "total": 6600.05
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00989",
+    "invoice_date": "2025-07-02",
+    "due_date": "2025-08-15",
+    "total": 982.0
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00990",
+    "invoice_date": "2025-05-25",
+    "due_date": "2025-06-14",
+    "total": 5763.55
+  },
+  {
+    "vendor": "Microsoft",
+    "invoice_number": "INV-00991",
+    "invoice_date": "2025-07-27",
+    "due_date": "2025-09-10",
+    "total": 3931.0
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00992",
+    "invoice_date": "2025-09-15",
+    "due_date": "2025-10-24",
+    "total": 1135.26
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-00993",
+    "invoice_date": "2025-06-26",
+    "due_date": "2025-07-26",
+    "total": 1179.1
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00994",
+    "invoice_date": "2025-09-27",
+    "due_date": "2025-10-20",
+    "total": 1905.58
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00995",
+    "invoice_date": "2025-08-16",
+    "due_date": "2025-09-23",
+    "total": 4948.19
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00996",
+    "invoice_date": "2025-06-18",
+    "due_date": "2025-07-03",
+    "total": 6120.37
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00997",
+    "invoice_date": "2025-07-30",
+    "due_date": "2025-08-21",
+    "total": 1224.56
+  },
+  {
+    "vendor": "Apple",
+    "invoice_number": "INV-00998",
+    "invoice_date": "2025-07-24",
+    "due_date": "2025-09-05",
+    "total": 4614.78
+  },
+  {
+    "vendor": "Google",
+    "invoice_number": "INV-00999",
+    "invoice_date": "2025-07-31",
+    "due_date": "2025-08-17",
+    "total": 7903.97
+  },
+  {
+    "vendor": "Amazon",
+    "invoice_number": "INV-01000",
+    "invoice_date": "2025-08-30",
+    "due_date": "2025-09-16",
+    "total": 6320.04
+  }
+]
